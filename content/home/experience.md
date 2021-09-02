@@ -64,8 +64,8 @@ experience:
     date_end: '2017-07-31'
     description: My work mainly included <b>Big Data analysis</b> and the collection of <b>GIS data</b>.
 
-  - title: Software Engineer
-    company: Uganda Industrial Research Institute
+  - title: <b>Software Engineer</b>
+    company: <b>Uganda Industrial Research Institute</b>
     company_url: 'https://www.unglobalpulse.org/'
     #company_logo: org-x
     location: Kampala, Uganda
