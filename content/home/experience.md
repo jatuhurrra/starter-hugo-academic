@@ -26,9 +26,9 @@ experience:
     company: <b>HONDA</b>
     company_url: 'http://www.jp.honda-ri.com/en/index.html'
     #company_logo: hri-jp-logo
-    location: Japan
+    location: Wako-shi, Saitama, Japan
     date_start: '2021-07-01'
-    date_end: '2021-01-31'
+    date_end: '2022-01-31'
     description: |2-
         Responsibilities include:
 
@@ -44,26 +44,53 @@ experience:
     location: Ikoma, Nara, Japan
     date_start: '2020-04-01'
     date_end: '2022-03-31'
-    description: A student at the <b>Large-scale Systems Management Lab</b>. I'm working on Intrusion Detection. I'm also working on Syllable Tokenization and Corpus building in collaboration with the Computational Linguistics Lab. 
+    description: A student at the <b>Large-scale Systems Management Lab</b>. I'm working on <b>Intrusion Detection</b>. I'm also working on <b>Syllable Tokenization</b> and <b>Corpus building</b> in collaboration with the <b>Computational Linguistics Lab </b> under the supervision of <b>Prof. Taro Watanabe.</b> 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: <b>Research Student</b>
+    company: <b>Kyoto University</b>
+    company_url: 'https://www.kyoto-u.ac.jp/en'
     #company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Kyoto, Japan
+    date_start: '2018-04-02'
+    date_end: '2020-03-31'
+    description: As a Research Student, I was actively mentored and supervised by <b>Prof. Masatoshi Yoshikawa</b> on <b>Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence</b> methods.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: <b>Junior Researcher</b>
+    company: <b>United Nations Global Pulse Lab</b>
+    company_url: 'https://www.unglobalpulse.org/'
     #company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-    
+    location: Kampala, Uganda
+    date_start: '2017-02-01'
+    date_end: '2017-07-31'
+    description: My work mainly included <b>Big Data analysis</b> and the collection of <b>GIS data</b>.
+
+  - title: Software Engineer
+    company: Uganda Industrial Research Institute
+    company_url: 'https://www.unglobalpulse.org/'
+    #company_logo: org-x
+    location: Kampala, Uganda
+    date_start: '2016-08-01'
+    date_end: '2016-012-31'
+    description: I was tasked with the development of an <b>Inventory Management System</b> based using PHP and SQLite. I accomplished this task. 
+
+  - title: <b>IP-networks Engineer Intern</b>
+    company: <b>Smart Telecom Uganda</b>
+    company_url: 'https://www.unglobalpulse.org/'
+    #company_logo: org-x
+    location: Kampala, Uganda
+    date_start: '2015-07-01'
+    date_end: '2015-09-30'
+    description: My work mainly included <b>Cisco switches and routers' configuration, DNS configuration, VPN set up and management, and CS-Core monitoring.</b>
+
+  - title: <b>Engineer Intern</b>
+    company: <b>Civil Aviation Authority</b>
+    company_url: 'https://www.unglobalpulse.org/'
+    #company_logo: org-x
+    location: Entebbe, Uganda
+    date_start: '2013-06-01'
+    date_end: '2013-08-31'
+    description: I trained on all Airport communication systems for instance <b>TETRA, VHF, HF, VSAT, ILS, Satellites and Radar</b>
+
 design:
   columns: '2'
 ---
