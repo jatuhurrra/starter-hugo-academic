@@ -79,4 +79,4 @@ Previously, I was a Research Student at Kyoto University, at Yoshikawa Lab in th
 
 I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
