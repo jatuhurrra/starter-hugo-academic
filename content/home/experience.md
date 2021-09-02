@@ -43,7 +43,7 @@ experience:
     #company_logo: org-x
     location: Ikoma, Nara, Japan
     date_start: '2020-04-01'
-    date_end: '2022-03-31'
+    date_end: '2022-03-26'
     description: A student at the <b>Large-scale Systems Management Lab</b>. I'm working on <b>Intrusion Detection</b>. I'm also working on <b>Syllable Tokenization</b> and <b>Corpus building</b> in collaboration with the <b>Computational Linguistics Lab </b> under the supervision of <b>Prof. Taro Watanabe.</b> 
 
   - title: <b>Research Student</b>
@@ -70,7 +70,7 @@ experience:
     #company_logo: org-x
     location: Kampala, Uganda
     date_start: '2016-08-01'
-    date_end: '2016-012-31'
+    date_end: '2016-12-31'
     description: I was tasked with the development of an <b>Inventory Management System</b> based using PHP and SQLite. I accomplished this task. 
 
   - title: <b>IP-networks Engineer Intern</b>
