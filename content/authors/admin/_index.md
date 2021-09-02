@@ -71,9 +71,11 @@ email: ""
 highlight_name: false
 ---
 
-I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a>. I am advised by <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a>. I am highly motivated by the recent progress made in Deep Learning. At the moment, I'm working on a few projects in NLP and these include: Syllable Tokenization, Intent Recognition in Language, Corpus Building; and one topic in Computer Security i.e. Intrusion Detection in IoT Networks. 
+I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a>. I am advised by <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a>. In this lab, I undertake Computer Security research where I investigate Intrusion Detection in IoT Networks using Deep Reinforcement Learning methods. Broadly speaking, I am highly motivated by the recent progress made in Deep Learning. 
 
-I am very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Research Intern and my work is primarily focused on the recognition of Intent in Language. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
+At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST.
+
+I am equally very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Research Intern and my work is primarily focused on <b>Intent Recognition in Language</b>. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
 
 Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, at <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://scholar.google.com/citations?user=yMFHG7wAAAAJ&hl=fil"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
 
