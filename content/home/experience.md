@@ -40,7 +40,7 @@ experience:
   - title: <b>Graduate Student (MEng)</b>
     company: <b>NAIST</b>
     company_url: 'http://www.naist.jp/en/'
-    #company_logo: org-x
+    company_logo: org-naist
     location: Ikoma, Nara, Japan
     date_start: '2020-04-01'
     date_end: '2022-03-26'
