@@ -25,7 +25,7 @@ experience:
   - title: <b>Research Intern</b>
     company: <b>HONDA</b>
     company_url: 'http://www.jp.honda-ri.com/en/index.html'
-    company_logo: org-honda2
+    company_logo: hri-jp-logo
     location: Japan
     date_start: '2021-07-01'
     date_end: '2021-01-31'
@@ -37,7 +37,7 @@ experience:
         * Evaluation of the initial model
         * Refinement of intent recognition model
         
-  - title: Professor of Semiconductor Physics
+  - title: <b>Graduate Student (MEng)</b>
     company: University X
     company_url: ''
     company_logo: org-x
