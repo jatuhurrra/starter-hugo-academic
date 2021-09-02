@@ -25,7 +25,7 @@ experience:
   - title: <b>Research Intern</b>
     company: <b>HONDA</b>
     company_url: 'http://www.jp.honda-ri.com/en/index.html'
-    company_logo: org-honda5
+    company_logo: org-honda6
     location: Wako-shi, Saitama, Japan
     date_start: '2021-07-01'
     date_end: '2022-01-31'
@@ -66,8 +66,8 @@ experience:
 
   - title: <b>Software Engineer</b>
     company: <b>Uganda Industrial Research Institute</b>
-    company_url: 'https://www.unglobalpulse.org/'
-    #company_logo: org-x
+    company_url: 'https://www.uiri.go.ug/'
+    company_logo: org-uiri
     location: Kampala, Uganda
     date_start: '2016-08-01'
     date_end: '2016-12-31'
@@ -75,8 +75,8 @@ experience:
 
   - title: <b>IP-networks Engineer Intern</b>
     company: <b>Smart Telecom Uganda</b>
-    company_url: 'https://www.unglobalpulse.org/'
-    #company_logo: org-x
+    company_url: 'http://smart.ug/'
+    company_logo: org-smart
     location: Kampala, Uganda
     date_start: '2015-07-01'
     date_end: '2015-09-30'
@@ -84,8 +84,8 @@ experience:
 
   - title: <b>Engineer Intern</b>
     company: <b>Civil Aviation Authority</b>
-    company_url: 'https://www.unglobalpulse.org/'
-    #company_logo: org-x
+    company_url: 'https://caa.go.ug/'
+    company_logo: org-caa
     location: Entebbe, Uganda
     date_start: '2013-06-01'
     date_end: '2013-08-31'
