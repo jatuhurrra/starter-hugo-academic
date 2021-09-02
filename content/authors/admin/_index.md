@@ -71,11 +71,11 @@ email: ""
 highlight_name: false
 ---
 
-I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a>Large-scale Systems Management Lab of NAIST. I am advised by Prof. Shoji Kasahara. I am highly motivated by the recent progress made in Deep Learning. At the moment, I'm working on a few projects in NLP and these include: Syllable Tokenization, Intent Recognition in Language, Corpus Building; and one topic in Computer Security i.e. Intrusion Detection in IoT Networks. 
+I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a>. I am advised by <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a>. I am highly motivated by the recent progress made in Deep Learning. At the moment, I'm working on a few projects in NLP and these include: Syllable Tokenization, Intent Recognition in Language, Corpus Building; and one topic in Computer Security i.e. Intrusion Detection in IoT Networks. 
 
-I am very fortunate to be working with HONDA Research Institute Japan (HRI-JP) as a Research Intern and my work is primarily focused on the recognition of Intent in Language. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
+I am very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Research Intern and my work is primarily focused on the recognition of Intent in Language. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
 
-Previously, I was a Research Student at Kyoto University, at Yoshikawa Lab in the Graduate School of Informatics. While there, I was supervised and mentored by Prof. Masatoshi Yoshikawa on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
+Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, at <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://scholar.google.com/citations?user=yMFHG7wAAAAJ&hl=fil"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
 
 I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
 
