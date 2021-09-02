@@ -23,22 +23,51 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-# - certificate_url: https://www.coursera.org
-#   date_end: ""
-#   date_start: "2021-01-25"
+- #certificate_url: https://www.coursera.org
+  #date_end: ""
+  date_start: "2021-07-01"
+  description: ""
+  organization: HONDA
+  organization_url: http://www.jp.honda-ri.com/en/
+  title: 'First international Research Intern'
+  #url: ""
+
+- #certificate_url: https://www.edx.org
+  #date_end: ""
+  date_start: "2018-04-01"
+  description: ""
+  organization: MEXT
+  organization_url: https://www.mext.go.jp/en/
+  title: 'MEXT scholarship Awardee'
+  #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
+- #certificate_url: https://www.datacamp.com
+  date_end: "2022-03-31"
+  date_start: "2020-04-01"
+  description: ""
+  organization: IEEE
+  organization_url: https://www.ieee.org/
+  title: 'Student member of IEEE, ACM and IACR'
+  url: ""
+
+- #certificate_url: https://www.datacamp.com
+  date_end: "2016-12-31"
+  date_start: "2016-08-01"
+  description: ""
+  organization: UIRI
+  organization_url: https://www.uiri.go.ug/
+  title: 'Pioneer of Big Data research'
+  url: ""
+
+# - #certificate_url: https://www.datacamp.com
+#   date_end: "2020-12-21"
+#   date_start: "2020-07-01"
 #   description: ""
-#   organization: Coursera
-#   organization_url: https://www.coursera.org
-#   title: Neural Networks and Deep Learning
+#   organization: DataCamp
+#   organization_url: https://www.datacamp.com
+#   title: 'Object-Oriented Programming in R'
 #   url: ""
-# - certificate_url: https://www.edx.org
-#   date_end: ""
-#   date_start: "2021-01-01"
-#   description: Formulated informed blockchain models, hypotheses, and use cases.
-#   organization: edX
-#   organization_url: https://www.edx.org
-#   title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+
 # - certificate_url: https://www.datacamp.com
 #   date_end: "2020-12-21"
 #   date_start: "2020-07-01"
@@ -47,14 +76,42 @@ item:
 #   organization_url: https://www.datacamp.com
 #   title: 'Object-Oriented Programming in R'
 #   url: ""
-    First international Research Intern at HONDA HRI-JP.
-    One of three students chosen by the Japanese government in 2018 for the MEXT scholarship.
-    Student member of IEEE, ACM and IACR.
-    Pioneer of Big Data research at UIRI in Kampala.
-    Finalist for the Best Undergrdauate students' project in the national championships.
-    Earned third-best place overall in my undergraduate class. 
-    Earned a copyright to my Undergraduate project.
-    Cisco Certified Network Associate (CCNA), 2015
+
+# - certificate_url: https://www.datacamp.com
+#   date_end: "2020-12-21"
+#   date_start: "2020-07-01"
+#   description: ""
+#   organization: DataCamp
+#   organization_url: https://www.datacamp.com
+#   title: 'Object-Oriented Programming in R'
+#   url: ""
+
+# - certificate_url: https://www.datacamp.com
+#   date_end: "2020-12-21"
+#   date_start: "2020-07-01"
+#   description: ""
+#   organization: DataCamp
+#   organization_url: https://www.datacamp.com
+#   title: 'Object-Oriented Programming in R'
+#   url: ""
+
+# - certificate_url: https://www.datacamp.com
+#   date_end: "2020-12-21"
+#   date_start: "2020-07-01"
+#   description: ""
+#   organization: DataCamp
+#   organization_url: https://www.datacamp.com
+#   title: 'Object-Oriented Programming in R'
+#   url: ""
+
+#     First international Research Intern at HONDA HRI-JP.
+#     One of three students chosen by the Japanese government in 2018 for the MEXT scholarship.
+#     Student member of IEEE, ACM and IACR.
+#     Pioneer of Big Data research at UIRI in Kampala.
+#     Finalist for the Best Undergrdauate students' project in the national championships.
+#     Earned third-best place overall in my undergraduate class. 
+#     Earned a copyright to my Undergraduate project.
+    # Cisco Certified Network Associate (CCNA), 2015
 
 design:
   columns: '2' 
