@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a second year Master's student at the Large-scale Systems Management Lab of NAIST. I am advised by Prof. Shoji Kasahara. I am highly motivated by the recent progress made in Deep Learning. At the moment, I'm working on a few projects in NLP and these include: Syllable Tokenization, Intent Recognition in Language, Corpus Building; and one topic in Computer Security i.e. Intrusion Detection in IoT Networks. 
+I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a>Large-scale Systems Management Lab of NAIST. I am advised by Prof. Shoji Kasahara. I am highly motivated by the recent progress made in Deep Learning. At the moment, I'm working on a few projects in NLP and these include: Syllable Tokenization, Intent Recognition in Language, Corpus Building; and one topic in Computer Security i.e. Intrusion Detection in IoT Networks. 
 
 I am very fortunate to be working with HONDA Research Institute Japan (HRI-JP) as a Research Intern and my work is primarily focused on the recognition of Intent in Language. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
 
