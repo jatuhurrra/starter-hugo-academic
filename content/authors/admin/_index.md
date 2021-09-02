@@ -81,4 +81,6 @@ Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> 
 
 I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
 
+My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/">MEXT</a> scholarship. 
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
