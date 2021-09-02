@@ -49,7 +49,7 @@ experience:
   - title: <b>Research Student</b>
     company: <b>Kyoto University</b>
     company_url: 'https://www.kyoto-u.ac.jp/en'
-    #company_logo: org-x
+    company_logo: org-kyodai
     location: Kyoto, Japan
     date_start: '2018-04-02'
     date_end: '2020-03-31'
