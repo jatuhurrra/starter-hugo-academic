@@ -71,12 +71,12 @@ email: ""
 highlight_name: false
 ---
 
-I am a second year Master's student at the Large-scale Systems Management Lab, Nara Institute of Science and Technology. I am advised by Prof. Shoji Kasahara. I am highly motivated by the recent progress made in Deep Learning. At the moment, I'm working on a few projects in NLP and these include: Syllable Tokenization, Intent Recognition in Language, Corpus Building; and one topic in Computer Security i.e. Intrusion Detection in IoT Networks. 
+I am a second year Master's student at the Large-scale Systems Management Lab of NAIST. I am advised by Prof. Shoji Kasahara. I am highly motivated by the recent progress made in Deep Learning. At the moment, I'm working on a few projects in NLP and these include: Syllable Tokenization, Intent Recognition in Language, Corpus Building; and one topic in Computer Security i.e. Intrusion Detection in IoT Networks. 
 
 I am very fortunate to be working with HONDA Research Institute Japan (HRI-JP) as a Research Intern and my work is primarily focused on the recognition of Intent in Language. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
 
-Previously I was a Research Student at Kyoto University, at Yoshikawa Lab in the Graduate School of Informatics. While there, I was supervised and mentored by Prof. Masatoshi Yoshikawa on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
+Previously, I was a Research Student at Kyoto University, at Yoshikawa Lab in the Graduate School of Informatics. While there, I was supervised and mentored by Prof. Masatoshi Yoshikawa on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
 
-I am very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
+I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
