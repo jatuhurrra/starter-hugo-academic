@@ -25,22 +25,31 @@ experience:
   - title: <b>Research Intern</b>
     company: <b>HONDA</b>
     company_url: 'http://www.jp.honda-ri.com/en/index.html'
-    company_logo: hri-jp-logo
+    #company_logo: hri-jp-logo
     location: Japan
     date_start: '2021-07-01'
     date_end: '2021-01-31'
     description: |2-
         Responsibilities include:
-        
+
         * Intent Recognition dataset construction
         * Text-based intent recognition model construction
         * Evaluation of the initial model
         * Refinement of intent recognition model
         
   - title: <b>Graduate Student (MEng)</b>
+    company: <b>NAIST</b>
+    company_url: 'http://www.naist.jp/en/'
+    #company_logo: org-x
+    location: Ikoma, Nara, Japan
+    date_start: '2020-04-01'
+    date_end: '2022-03-31'
+    description: A student at the <b>Large-scale Systems Management Lab</b>. I'm working on Intrusion Detection. I'm also working on Syllable Tokenization and Corpus building in collaboration with the Computational Linguistics Lab. 
+
+  - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
@@ -49,16 +58,7 @@ experience:
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
+    #company_logo: org-x
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
