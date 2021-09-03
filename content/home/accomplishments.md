@@ -30,7 +30,7 @@ item:
   organization: HONDA
   organization_url: http://www.jp.honda-ri.com/en/
   title: 'First international Research Intern'
-  #url: ""
+  url: ""
 
   - #certificate_url: https://www.coursera.org
   date_end: "2022-02-31"
@@ -39,7 +39,7 @@ item:
   organization: NAIST
   organization_url: http://www.naist.jp/en/
   title: 'Fully funding for Corpus Building'
-  #url: ""
+  url: ""
 
 - #certificate_url: https://www.edx.org
   date_end: "2022-03-31"
@@ -48,7 +48,7 @@ item:
   organization: MEXT
   organization_url: https://www.mext.go.jp/en/
   title: 'MEXT scholarship Awardee'
-  #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 - #certificate_url: https://www.datacamp.com
   date_end: "2022-03-31"
@@ -57,7 +57,7 @@ item:
   organization: IEEE
   organization_url: https://www.ieee.org/
   title: 'Student member of IEEE, ACM and IACR'
-  #url: ""
+  url: ""
 
 - #certificate_url: https://www.datacamp.com
   date_end: "2016-12-31"
@@ -66,7 +66,7 @@ item:
   organization: UIRI
   organization_url: https://www.uiri.go.ug/
   title: 'Pioneer of Big Data research'
-  #url: ""
+  url: ""
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
@@ -75,7 +75,7 @@ item:
   organization: UCC
   organization_url: https://www.ucc.co.ug/ 
   title: 'Finalist for the Best Undergrdauate students' project in the national championships'
-  #url: ""
+  url: ""
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
@@ -84,7 +84,7 @@ item:
   organization: URSB
   organization_url: https://ursb.go.ug/
   title: 'Earned a copyright to my Undergraduate project'
-  #url: ""
+  url: ""
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
@@ -93,7 +93,7 @@ item:
   organization: Kyambogo University
   #organization_url: https://www.datacamp.com
   title: 'Earned third-best place overall in my undergraduate class'
-  #url: ""
+  url: ""
 
 - #certificate_url: https://www.datacamp.com
   date_end: "2015-12-10"
@@ -102,7 +102,7 @@ item:
   organization: CISCO
   organization_url: https://www.cisco.com
   title: 'Cisco Certified Network Associate (CCNA)'
-  #url: ""
+  url: ""
 
 # - certificate_url: https://www.datacamp.com
 #   date_end: "2020-12-21"
