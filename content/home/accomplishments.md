@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplishments' #'Accomplish&shy;ments'
+title: 'Accomplished' #'Accomplish&shy;ments'
 subtitle:
 
 # Date format
@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - #certificate_url: https://www.coursera.org
-  #date_end: ""
+  date_end: "2022-01-31"
   date_start: "2021-07-01"
   description: ""
   organization: HONDA
@@ -32,8 +32,17 @@ item:
   title: 'First international Research Intern'
   #url: ""
 
+  - #certificate_url: https://www.coursera.org
+  date_end: "2022-02-31"
+  date_start: "2021-06-01"
+  description: ""
+  organization: NAIST
+  organization_url: http://www.naist.jp/en/
+  title: 'Fully funding for Corpus Building'
+  #url: ""
+
 - #certificate_url: https://www.edx.org
-  #date_end: ""
+  date_end: "2022-03-31"
   date_start: "2018-04-01"
   description: ""
   organization: MEXT
@@ -46,9 +55,9 @@ item:
   date_start: "2020-04-01"
   description: ""
   organization: IEEE
-  organization_url: https://www.ieee.org/
+  organization_url: https://www.ieee.org/, https://www.acm.org/, https://www.iacr.org/ 
   title: 'Student member of IEEE, ACM and IACR'
-  url: ""
+  #url: ""
 
 - #certificate_url: https://www.datacamp.com
   date_end: "2016-12-31"
@@ -57,43 +66,43 @@ item:
   organization: UIRI
   organization_url: https://www.uiri.go.ug/
   title: 'Pioneer of Big Data research'
+  #url: ""
+
+- #certificate_url: https://www.datacamp.com
+  #date_end: "2020-12-21"
+  date_start: "2016-12-10"
+  description: ""
+  organization: UCC
+  organization_url: https://www.ucc.co.ug/ 
+  title: 'Finalist for the Best Undergrdauate students' project in the national championships'
   url: ""
 
-# - #certificate_url: https://www.datacamp.com
-#   date_end: "2020-12-21"
-#   date_start: "2020-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R'
-#   url: ""
+- #certificate_url: https://www.datacamp.com
+  #date_end: "2020-12-21"
+  date_start: "2016-03-01"
+  description: ""
+  organization: URSB
+  organization_url: https://ursb.go.ug/
+  title: 'Earned a copyright to my Undergraduate project'
+  url: ""
 
-# - certificate_url: https://www.datacamp.com
-#   date_end: "2020-12-21"
-#   date_start: "2020-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R'
-#   url: ""
+- #certificate_url: https://www.datacamp.com
+  #date_end: "2020-12-21"
+  date_start: "2016-01-01"
+  description: ""
+  organization: Kyambogo University
+  #organization_url: https://www.datacamp.com
+  title: 'Earned third-best place overall in my undergraduate class'
+  url: ""
 
-# - certificate_url: https://www.datacamp.com
-#   date_end: "2020-12-21"
-#   date_start: "2020-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R'
-#   url: ""
-
-# - certificate_url: https://www.datacamp.com
-#   date_end: "2020-12-21"
-#   date_start: "2020-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R'
-#   url: ""
+- #certificate_url: https://www.datacamp.com
+  date_end: "2015-12-10"
+  date_start: "2015-06-01"
+  description: ""
+  organization: CISCO
+  organization_url: https://www.cisco.com
+  title: 'Cisco Certified Network Associate (CCNA)'
+  url: ""
 
 # - certificate_url: https://www.datacamp.com
 #   date_end: "2020-12-21"
