@@ -74,7 +74,7 @@ item:
   #description: ""
   organization: UCC
   organization_url: https://www.ucc.co.ug/ 
-  title: 'Finalist for the Best Undergrdauate students' project in the national championships'
+  title: 'Finalist for the Best Undergrdauate students project in the national championships'
   url: ""
 
 - #certificate_url: https://www.datacamp.com
