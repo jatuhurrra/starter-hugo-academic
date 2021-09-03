@@ -32,7 +32,7 @@ item:
   title: 'First international Research Intern'
   url: "http://www.naist.jp/en/"
 
-  - #certificate_url: https://www.coursera.org
+- #certificate_url: https://www.coursera.org
   date_end: "2022-02-31"
   date_start: "2021-06-01"
   #description: ""
