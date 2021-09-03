@@ -30,7 +30,7 @@ item:
   organization: HONDA
   organization_url: http://www.jp.honda-ri.com/en/
   title: 'First international Research Intern'
-  url: ""
+  url: "http://www.naist.jp/en/"
 
   - #certificate_url: https://www.coursera.org
   date_end: "2022-02-31"
