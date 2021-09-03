@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - #certificate_url: https://www.coursera.org
-  date_end: "2022-01-31"
+  date_end: "2022-01-01"
   date_start: "2021-07-01"
   #description: ""
   organization: HONDA
@@ -33,7 +33,7 @@ item:
   url: "http://www.naist.jp/en/"
 
 - #certificate_url: https://www.coursera.org
-  date_end: "2022-02-31"
+  date_end: "2022-02-01"
   date_start: "2021-06-01"
   #description: ""
   organization: NAIST
@@ -42,7 +42,7 @@ item:
   url: ""
 
 - #certificate_url: https://www.edx.org
-  date_end: "2022-03-31"
+  date_end: "2022-03-01"
   date_start: "2018-04-01"
   #description: ""
   organization: MEXT
@@ -51,7 +51,7 @@ item:
   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2022-03-31"
+  date_end: "2022-03-01"
   date_start: "2020-04-01"
   #description: ""
   organization: IEEE
@@ -60,7 +60,7 @@ item:
   url: ""
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2016-12-31"
+  date_end: "2016-12-01"
   date_start: "2016-08-01"
   #description: ""
   organization: UIRI
@@ -70,7 +70,7 @@ item:
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
-  date_start: "2016-12-10"
+  date_start: "2016-12-01"
   #description: ""
   organization: UCC
   organization_url: https://www.ucc.co.ug/ 
@@ -96,7 +96,7 @@ item:
   url: ""
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2015-12-10"
+  date_end: "2015-12-01"
   date_start: "2015-06-01"
   #description: ""
   organization: CISCO
