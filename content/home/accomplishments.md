@@ -83,8 +83,8 @@ item:
   #description: ""
   organization: URSB
   organization_url: https://ursb.go.ug/
-  title: 'Earned a copyright to my Undergraduate project'
-  url: ""
+  title: 'Earned a copyright to my Undergraduate project i.e. CUMPUS FLIGHT'
+  url: "https://gazettes.africa/gazettes/ug-government-gazette-dated-2018-08-31-no-46"
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
