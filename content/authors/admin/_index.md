@@ -83,4 +83,6 @@ I am also very much interested in the developement of language resources that wi
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/">MEXT</a> scholarship. 
 
+<b style="color:red;">News: [Sept. 2021] I have been selected to participate in the AllenNLP Hacks 2021. </b>
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
