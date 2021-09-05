@@ -73,7 +73,7 @@ highlight_name: false
 
 I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a>. I am advised by <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a>. In this lab, I undertake Computer Security research where I investigate <b>Intrusion Detection</b> in IoT Networks using Deep Reinforcement Learning methods. Broadly speaking, I am highly motivated by the recent progress made in Deep Learning. 
 
-At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a>from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST.
+At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a> from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST.
 
 I am equally very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Research Intern and my work is primarily focused on <b>Intent Recognition in Language</b>. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
 
