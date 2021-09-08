@@ -30,7 +30,7 @@ item:
   organization: HONDA
   organization_url: http://www.jp.honda-ri.com/en/
   title: 'First international Research Intern'
-  url: "http://www.naist.jp/en/"
+  url: "http://www.jp.honda-ri.com/en/"
 
 - #certificate_url: https://www.coursera.org
   date_end: "2022-02-01"
@@ -48,7 +48,7 @@ item:
   organization: MEXT
   organization_url: https://www.mext.go.jp/en/
   title: 'MEXT scholarship Awardee'
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: ""
 
 - #certificate_url: https://www.datacamp.com
   date_end: "2022-03-01"
