@@ -84,7 +84,7 @@ I am also very much interested in the developement of language resources that wi
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/">MEXT</a> scholarship. 
 
-<b style="color:green;">Research Manuscripts in Preparation:</b> <br>
+<b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
 <p >1. Atuhurra Jesse, Yusuke Sakai, Hiroyuki Shindo, Taro Watanabe, <b>Can Syllable Embeddings improve
 representations for Low-resource Languages? A case study on the Swahili language</b>.</p>
 
