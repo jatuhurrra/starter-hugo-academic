@@ -21,7 +21,8 @@ interests:
 - Computational Linguistics
 - Representation Learning
 - Human Computer Interaction
-- Reinforcement Learning
+- Reinforcement Learning 
+- Unmanned Aerial Vehicles (UAV's)
 
 # Education to show in About widget
 education:
