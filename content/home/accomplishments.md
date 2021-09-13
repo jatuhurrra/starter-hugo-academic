@@ -38,7 +38,7 @@ item:
   #description: ""
   organization: NAIST
   organization_url: http://www.naist.jp/en/
-  title: 'Full funding for Corpus Building'
+  title: 'My team secured Full funding for Corpus Building'
   url: ""
 
 - #certificate_url: https://www.edx.org
