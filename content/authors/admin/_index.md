@@ -20,7 +20,7 @@ bio: My research interests broadly include NLP, Human Computer Interaction, Repr
 interests:
 - Computational Linguistics
 - Representation Learning
-- Human Computer Interaction
+- Human Robot Interaction
 - Reinforcement Learning 
 - Unmanned Aerial Vehicles (UAV's)
 
@@ -90,6 +90,8 @@ representations for Low-resource Languages? A case study on the Swahili language
 
 <p >2. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep
 Reinforcement Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
+
+
 
 <b style="color:red;">News: [Sept. 2021] I have been selected to participate in the AllenNLP Hacks 2021. </b>
 
