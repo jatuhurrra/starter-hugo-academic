@@ -20,7 +20,7 @@ bio: My research interests broadly include NLP, Human Computer Interaction, Repr
 interests:
 - Computational Linguistics
 - Representation Learning
-- Human Robot Interaction
+- Human—Robot Interaction
 - Reinforcement Learning 
 - Unmanned Aerial Vehicles (UAV's)
 
