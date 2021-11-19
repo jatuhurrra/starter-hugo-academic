@@ -92,7 +92,13 @@ representations for Low-resource Languages? A case study on the Swahili language
 Reinforcement Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
 
 
-
-<b style="color:red;">News: [Sept. 2021] I have been selected to participate in the AllenNLP Hacks 2021. </b>
+<b style="color:red;">Recent News: </b>
+<ul>
+  <li>[Nov. 2021] Conference presentation at RISING 2021. Title: <b>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </b> </li>
+  <li>[Nov. 2021] Started building SOTA supply chain solution with my META-GREEN Team.</li>
+  <li>[Oct. 2021] Completed research internship, starting a new role at Honda.</li>
+  <li>[Oct. 2021] Started building a Text corpus.</li>
+  <li>[Sept. 2021] I have been selected to participate in the AllenNLP Hacks 2021.</li>
+</ul>
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
