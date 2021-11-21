@@ -86,14 +86,14 @@ item:
   title: 'Earned a copyright to my Undergraduate project i.e. CUMPUS FLIGHT'
   url: "https://gazettes.africa/gazettes/ug-government-gazette-dated-2018-08-31-no-46"
 
-- #certificate_url: https://www.datacamp.com
-  #date_end: "2020-12-21"
-  date_start: "2016-01-01"
-  #description: ""
-  organization: Kyambogo University
-  #organization_url: https://www.datacamp.com
-  title: 'Earned third-best place overall in my undergraduate class'
-  url: ""
+# - #certificate_url: https://www.datacamp.com
+#   #date_end: "2020-12-21"
+#   date_start: "2016-01-01"
+#   #description: ""
+#   organization: Kyambogo University
+#   #organization_url: https://www.datacamp.com
+#   title: 'Earned third-best place overall in my undergraduate class'
+#   url: ""
 
 - #certificate_url: https://www.datacamp.com
   date_end: "2015-12-01"
