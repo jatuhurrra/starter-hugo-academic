@@ -36,7 +36,7 @@ directions: Enter Block B of the IS Building  and take the elevator to Office B7
 office_hours:
   - 'Monday ~ Friday 8:00 to 18:00'
 
-appointment_url: 'https://calendly.com'
+#appointment_url: 'https://calendly.com'
 #contact_links:
 #  - icon: twitter
 #    icon_pack: fab
