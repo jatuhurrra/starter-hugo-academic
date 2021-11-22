@@ -35,7 +35,7 @@ education:
     year: 2020
   - course: BEng in Telecommunications Engineering
     institution: Kyambogo University, Uganda
-    year: 2016
+    year: Jan 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
