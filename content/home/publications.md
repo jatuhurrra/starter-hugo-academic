@@ -38,6 +38,6 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}} -->
 Recent publications are available [here](./publication/).
-{{% /callout %}}
+<!-- {{% /callout %}} -->
