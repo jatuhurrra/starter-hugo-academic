@@ -33,7 +33,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: list #citation
   columns: '2'
 ---
 
