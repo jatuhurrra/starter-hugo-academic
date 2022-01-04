@@ -1,23 +1,25 @@
 ---
-title: "An example conference paper"
+title: "On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Robert Ford
+- Jesse Atuhurra
+- Takanori Hara
+- Yuanyu Zhang
+- Shoji Kasahara
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-11-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-12-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +28,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *IEICE RISING2021 Conference*
+publication_short: In *RISING*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: With the proliferation of IoT devices, IoT security problems arise. To protect heterogeneous connected devices in IoT networks against cyber-attacks and various attack patterns by intruders, many researchers have introduced network intrusion detection systems (NIDSs) which are based on machine learning techniques. An NIDS in IoT networks must maintain the appropriate security level despite the limited computational resources. To address the limitation, we propose a classification method for detecting the attacks by intruders to realize the NIDS designed for IoT networks. Through numerical experiments using a realistic botnet dataset in IoT networks with imbalanced class distribution,we demonstrate that the proposed classification yields high area under the receiver operating characteristics curve (AUC) score as well as balances the high accuracy with low false-positive rate, with the help of the synthetic minority over-sampling technique (SMOTE).
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
