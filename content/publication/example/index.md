@@ -42,9 +42,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Custom Link
+  url: https://www.ieice.org/ken/paper/20211116zCHE/
 
 url_pdf: ''
 url_code: ''
