@@ -39,7 +39,7 @@ abstract: With the proliferation of IoT devices, IoT security problems arise. To
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: flase
 
 # Custom links (uncomment lines below)
 links:
