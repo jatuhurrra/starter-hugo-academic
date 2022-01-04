@@ -95,7 +95,7 @@ Reinforcement Learning based Intrusion Detection with SMOTE sampling in IoT netw
 <b style="color:red;">Recent News: </b>
 <ul>
   <li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
-  <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <b>On Attack Pattern Classification in IoT    Networks for Network Intrusion Detection Systems </b> </li>
+  <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <a href="https://www.ieice.org/cs/rising/jpn/2021/proceeding/index.html">On Attack Pattern Classification in IoT    Networks for Network Intrusion Detection Systems </a> </li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
   <li><b>[Oct. 2021]</b> Started building a Text corpus.</li>
   <li><b>[Sept. 2021]</b> I have been selected to participate in the AllenNLP Hacks 2021.</li>
