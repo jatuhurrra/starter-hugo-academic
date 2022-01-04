@@ -1,8 +1,8 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-#widget: pages
-widget: featured
+widget: pages
+#widget: featured
 
 # This file represents a page section.
 headless: true
@@ -20,7 +20,7 @@ content:
     folders:
       - publication
     tag: ''
-    category: ''
+    category: 'Computer Security'
     publication_type: 'Conference paper'
     author: 'Jesse Atuhurra'
     exclude_featured: false
