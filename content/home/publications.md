@@ -10,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-#title: Recent Publications
-title: Publications
+title: Filter Publications
+
 subtitle: ''
 
 content:
@@ -38,6 +38,6 @@ design:
   columns: '2'
 ---
 
-<!-- {{% callout note %}} -->
+{{% callout note %}}
 Recent publications are available [here](./publication/).
-<!-- {{% /callout %}} -->
+{{% /callout %}}
