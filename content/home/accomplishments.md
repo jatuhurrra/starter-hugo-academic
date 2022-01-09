@@ -29,7 +29,7 @@ item:
   #description: ""
   organization: HONDA
   organization_url: http://www.jp.honda-ri.com/en/
-  title: 'First international Research Intern'
+  title: 'International Research Intern Appointee'
   url: "http://www.jp.honda-ri.com/en/"
 
 - #certificate_url: https://www.coursera.org
