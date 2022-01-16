@@ -78,22 +78,21 @@ At the same time, I'm working on a few projects in NLP namely; <b>Syllable Token
 
 I am equally very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Research Intern and my work is primarily focused on <b>Intent Recognition in Language</b>. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
 
-Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, at <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://scholar.google.com/citations?user=yMFHG7wAAAAJ&hl=fil"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
+Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, at <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
 
 I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/">MEXT</a> scholarship. 
 
 <b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
-<p >1. Atuhurra Jesse, Yusuke Sakai, Hiroyuki Shindo, Taro Watanabe, <b>Can Syllable Embeddings improve
-representations for Low-resource Languages? A case study on the Swahili language</b>.</p>
-
-<p >2. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep
-Reinforcement Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
+<p >1. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
+<b style="color:green;">Research Manuscripts Under Review:</b> <br>
+<p >1 paper submitted to NAACL 2022.</b>. </p>
 
 
 <b style="color:red;">Recent News: </b>
 <ul>
+  <li><b>[Jan. 2022]</b> Submitted paper to NAACL 2022.</li>
   <li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
   <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <a href="https://www.ieice.org/cs/rising/jpn/2021/proceeding/index.html">On Attack Pattern Classification in IoT    Networks for Network Intrusion Detection Systems </a> </li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
