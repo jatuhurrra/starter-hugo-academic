@@ -82,19 +82,21 @@ Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> 
 
 I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
 
-My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/">MEXT</a> scholarship. 
-
+My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship. 
+<!--
 <b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
 <p >1. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
+-->
 <b style="color:green;">Research Manuscripts Under Review:</b> <br>
-<p >1 paper submitted to NAACL 2022.</b>. </p>
+<p >Paper submitted to NAACL 2022.</b> </p>
 
 
 <b style="color:red;">Recent News: </b>
 <ul>
+  <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distributions for Intrusion-detection Analysis</i> </li>
   <li><b>[Jan. 2022]</b> Submitted paper to NAACL 2022.</li>
   <li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
-  <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT    Networks for Network Intrusion Detection Systems </i> </li>
+  <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </i> </li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
   <li><b>[Oct. 2021]</b> Started building a Text corpus.</li>
   <li><b>[Sept. 2021]</b> I have been selected to participate in the AllenNLP Hacks 2021.</li>
