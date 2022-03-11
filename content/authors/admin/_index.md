@@ -23,6 +23,7 @@ interests:
 - Human—Robot Interaction
 - Reinforcement Learning 
 - Unmanned Aerial Vehicles (UAV's)
+- Network Intrusion Detection Systems (Past!)
 
 # Education to show in About widget
 education:
@@ -76,7 +77,7 @@ I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/"
 
 At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a> from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST.
 
-I am equally very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Research Intern and my work is primarily focused on <b>Intent Recognition in Language</b>. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
+I am equally very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part time Researcher and my work is primarily focused on <b>Intent Recognition in Language</b>. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
 
 Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, at <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
 
@@ -93,7 +94,7 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 
 <b style="color:red;">Recent News: </b>
 <ul>
-  <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distributions for Intrusion-detection Analysis</i> </li>
+  <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i> </li>
   <li><b>[Jan. 2022]</b> Submitted paper to NAACL 2022.</li>
   <li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
   <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </i> </li>
