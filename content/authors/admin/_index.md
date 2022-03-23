@@ -84,10 +84,10 @@ Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> 
 I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship. 
+
 <!--
 <b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
 <p >1. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
-
 <b style="color:green;">Research Manuscripts Under Review:</b> <br>
 <p >Paper submitted to NAACL 2022.</b> </p>
 -->
