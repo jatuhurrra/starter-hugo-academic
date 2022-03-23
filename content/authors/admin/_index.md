@@ -87,10 +87,10 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 <!--
 <b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
 <p >1. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
--->
+
 <b style="color:green;">Research Manuscripts Under Review:</b> <br>
 <p >Paper submitted to NAACL 2022.</b> </p>
-
+-->
 
 <b style="color:red;">Recent News: </b>
 <ul>
