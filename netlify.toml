@@ -7,11 +7,10 @@
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
-  HUGO_ENV = "0.87.0"
+  HUGO_ENV = "production"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-  HUGO_ENV = "0.87.0"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
