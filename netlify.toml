@@ -10,10 +10,11 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "REACT_APP_STAGE=dev CI='' npm run build"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "REACT_APP_STAGE=dev CI='' npm run build"
+
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
