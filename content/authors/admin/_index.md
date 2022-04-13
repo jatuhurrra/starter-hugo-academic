@@ -6,7 +6,7 @@ title: Atuhurra Jesse
 superuser: true
 
 # Role/position/tagline
-role: MEng Information Science and Engineering
+role: PhD Information Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,6 +28,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD Information Science and Engineering
+    institution: Nara Institute of Science and Technology, Japan
+    year: 2025
   - course: MEng Information Science and Engineering
     institution: Nara Institute of Science and Technology, Japan
     year: 2022
