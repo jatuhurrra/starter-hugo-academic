@@ -73,9 +73,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a>. My research interests lie in information extraction, evaluation of NLP models, multilingualism and low-resource NLP. Broadly speaking I am passionate about applying deep learning approaches to enable machines understand human language, as well as facilitate communication between humans and social robots.
+I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. My research interests lie in information extraction, evaluation of NLP models, multilingualism and low-resource NLP. Broadly speaking I am passionate about applying deep learning approaches to enable machines understand human language, as well as facilitate communication between humans and social robots.
 
-I am also affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part time Researcher and my work is primarily focused on <b>Intent Recognition in Language</b>. I collaborate with <b>Anton de la Fuente</b> and <b>Eric Nichols</b>.
+I am also affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part time Researcher and my work is primarily focused on <b>Intent Recognition in Language</b>. I collaborate with <a href="https://www.linkedin.com/in/antondelafuente/">Anton de la Fuente</a> and <b>Eric Nichols</b>.
 
 Previously, I've worked on <b>Intrusion Detection</b> in IoT networks in the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a> during my masters degree where I was advised by <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a>.
 
