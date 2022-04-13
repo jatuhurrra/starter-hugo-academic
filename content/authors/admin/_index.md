@@ -21,7 +21,7 @@ interests:
 - Computational Linguistics
 - Representation Learning
 - Human—Robot Interaction
-- Others <span>&#128065;&#65039;</span>
+- Others <span>&#128065;&#65039; &#128071;&#128071;</span>
 - Reinforcement Learning
 - Unmanned Aerial Vehicles (UAV's)
 
