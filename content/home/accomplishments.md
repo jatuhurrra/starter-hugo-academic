@@ -46,7 +46,7 @@ item:
   date_start: "2018-04-01"
   #description: ""
   organization: MEXT
-  organization_url: https://www.mext.go.jp/en/
+  organization_url: https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm
   title: 'MEXT scholarship Awardee'
   url: ""
 
