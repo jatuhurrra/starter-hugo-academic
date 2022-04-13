@@ -73,18 +73,17 @@ email: ""
 highlight_name: false
 ---
 
-I am a second year Master's student at the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a>. I am advised by <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a>. In this lab, I undertake Computer Security research where I investigate <b>Intrusion Detection</b> in IoT Networks using Deep Reinforcement Learning methods. Broadly speaking, I am highly motivated by the recent progress made in Deep Learning. 
+I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a>. My research interests lie in information extraction, evaluation of NLP models, multilingualism and application of state-of-the-art NLP models to low-resource languages. Broadly speaking I am passionate about applying deep learning approaches to enable machines understand human language, as well as facilitate communication between humans and social robots.
 
-At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a> from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST.
+I am also affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part time Researcher and my work is primarily focused on <b>Intent Recognition in Language</b>. I collaborate with <b>Anton de la Fuente</b> and <b>Eric Nichols</b>.
 
-I am equally very fortunate to be working with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part time Researcher and my work is primarily focused on <b>Intent Recognition in Language</b>. I am affiliated with the Cooperative Intelligence Department, where I am advised by Eric Nichols. 
+Previously, I've worked on <b>Intrusion Detection</b> in IoT networks in the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a> during my masters degree where I was advised by <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a>.
 
-Previously, I was a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, at <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
-
-I am also very much interested in the developement of language resources that will help with the application of state-of-the-art NLP models to low-resource languages.
+I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship. 
 
+<!-- At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a> from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST. -->
 
 <!--
 <b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
