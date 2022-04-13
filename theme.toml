@@ -47,4 +47,3 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 [original]
   name = ""
   homepage = ""
-  repo = ""

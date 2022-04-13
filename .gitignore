@@ -2,8 +2,9 @@
 .idea/
 
 # Hugo
-/resources/
+resources/
 public/
 jsconfig.json
 node_modules/
-content/authors/.DS_Store
+go.sum
+.hugo_build.lock
