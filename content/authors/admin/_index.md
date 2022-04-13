@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Information Science and Engineering
+  - course: PhD Information Science and Engineering (Expected)
     institution: Nara Institute of Science and Technology, Japan
     year: 2025
   - course: MEng Information Science and Engineering
