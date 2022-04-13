@@ -1,2 +1,2 @@
 ---
-This is the first post right here!
+// This is the first post right here!
