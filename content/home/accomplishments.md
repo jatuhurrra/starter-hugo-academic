@@ -38,11 +38,11 @@ item:
   #description: ""
   organization: NAIST
   organization_url: http://www.naist.jp/en/
-  title: 'Our team secured Full funding for Corpus Building'
+  title: 'Our team secured funding for Corpus Building'
   url: ""
 
 - #certificate_url: https://www.edx.org
-  date_end: "2022-03-01"
+  date_end: "2025-03-01"
   date_start: "2018-04-01"
   #description: ""
   organization: MEXT
@@ -73,7 +73,7 @@ item:
   date_start: "2016-12-01"
   #description: ""
   organization: UCC
-  organization_url: https://www.ucc.co.ug/ 
+  #organization_url: https://www.ucc.co.ug/ 
   title: 'Finalist for the Best Undergrdauate students project in the national championships'
   url: ""
 
