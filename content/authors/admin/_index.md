@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a>. My research interests lie in information extraction, evaluation of NLP models, multilingualism and application of state-of-the-art NLP models to low-resource languages. Broadly speaking I am passionate about applying deep learning approaches to enable machines understand human language, as well as facilitate communication between humans and social robots.
+I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a>. My research interests lie in information extraction, evaluation of NLP models, multilingualism and low-resource NLP. Broadly speaking I am passionate about applying deep learning approaches to enable machines understand human language, as well as facilitate communication between humans and social robots.
 
 I am also affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part time Researcher and my work is primarily focused on <b>Intent Recognition in Language</b>. I collaborate with <b>Anton de la Fuente</b> and <b>Eric Nichols</b>.
 
@@ -81,7 +81,7 @@ Previously, I've worked on <b>Intrusion Detection</b> in IoT networks in the <a 
 
 I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods especially related to: Information Retrieval, Databases, Human Computer Interface design and Artificial Intelligence.
 
-My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship. 
+My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
 
 <!-- At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a> from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST. -->
 
@@ -92,7 +92,7 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 <p >Paper submitted to NAACL 2022. </p>
 -->
 
-<b style="color:red;">Recent News: </b>
+<b style="color:red;">News: </b>
 <ul>
   <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i> </li>
   <li><b>[Jan. 2022]</b> Submitted paper to NAACL 2022.</li>
