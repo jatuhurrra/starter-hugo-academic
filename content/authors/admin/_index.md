@@ -95,7 +95,7 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 <p >Paper submitted to NAACL 2022. </p>
 -->
 
-<b style="color:red;">News: </b>
+<b style="color:red;">Activities: </b>
 <ul>
   <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i> </li>
   <li><b>[Jan. 2022]</b> Submitted paper to NAACL 2022.</li>
