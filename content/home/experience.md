@@ -54,7 +54,7 @@ experience:
     location: Ikoma, Nara, Japan
     date_start: '2020-04-01'
     date_end: '2022-03-26'
-    description: I am a student at the <b>Large-scale Systems Management Lab</b>. I'm working on <b>Intrusion Detection</b> with <b> Prof. Shoji Kasahara</b>. I'm also working on <b>Syllable Tokenization</b> and <b>Corpus building</b> in collaboration with <b>Prof. Taro Watanabe</b> from the <b>Computational Linguistics Lab </b> 
+    description: I completed Master's degree in the <b>Large-scale Systems Management Lab</b> where I worked on <b>Intrusion Detection</b> with <b> Prof. Shoji Kasahara</b>. I also worked on <b>Syllable Tokenization</b> and <b>construction of corpora</b> in collaboration with <b>Prof. Taro Watanabe</b> from the <b>NLP Lab </b> 
 
   - title: <b>Research Student</b>
     company: <b>Kyoto University</b>
