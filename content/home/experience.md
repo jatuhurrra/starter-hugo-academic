@@ -54,8 +54,7 @@ experience:
     location: Ikoma, Nara, Japan
     date_start: '2020-04-01'
     date_end: '2022-03-26'
-    description: I completed Master's degree in the <b>Large-scale Systems Management Lab</b> where I worked on <b>Intrusion Detection</b> with <b> Prof. Shoji Kasahara</b>. I also worked on <b>Syllable Tokenization</b> and <b>construction of corpora</b> in collaboration with <b>Prof. Taro Watanabe</b> from the <b>NLP Lab </b> 
-
+    description: I completed Master's degree in the <b>Large-scale Systems Management Lab</b> where I worked on <b>Intrusion Detection</b> with <b> Prof. Shoji Kasahara</b>.
   - title: <b>Research Student</b>
     company: <b>Kyoto University</b>
     company_url: 'https://www.kyoto-u.ac.jp/en'
@@ -72,7 +71,7 @@ experience:
     location: Kampala, Uganda
     date_start: '2017-02-01'
     date_end: '2017-07-31'
-    description: My work mainly included <b>Big Data analysis</b> and the collection of <b>GIS data</b>.
+    description: My work mainly included <b>Big Data Analysis</b> and the collection of <b>GIS data</b>.
 
   - title: <b>Software Engineer</b>
     company: <b>Uganda Industrial Research Institute</b>
@@ -81,7 +80,7 @@ experience:
     location: Kampala, Uganda
     date_start: '2016-08-01'
     date_end: '2016-12-31'
-    description: I was tasked with the development of an <b>Inventory Management System</b> based using PHP and SQLite. I accomplished this task. 
+    description: I was tasked with the development of an <b>Inventory Management System</b> using PHP and SQLite. 
 
   - title: <b>IP-networks Engineer Intern</b>
     company: <b>Smart Telecom Uganda</b>
