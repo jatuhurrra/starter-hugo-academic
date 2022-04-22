@@ -10,7 +10,7 @@ role: PhD Information Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Nara Institute of Science and Technology (NAIST)     atuhurra.jesse.ag2 [at] is.naist.jp
+- name: Nara Institute of Science and Technology (NAIST)     Email:  atuhurra.jesse.ag2 [at] is.naist.jp 
   url: http://www.naist.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
