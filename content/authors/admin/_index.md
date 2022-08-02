@@ -18,12 +18,12 @@ bio: My research interests broadly include NLP, Human Computer Interaction, Repr
 
 # Interests to show in About widget
 interests:
-- Computational Linguistics
+- Natural Language Processing
 - Representation Learning
 - Human—Robot Interaction
-- Others <span>&#128065;&#65039;&#128065;&#65039; &#128071;&#128071;</span>
-- Reinforcement Learning
-- Unmanned Aerial Vehicles (UAV's)
+#- Others <span>&#128065;&#65039;&#128065;&#65039; &#128071;&#128071;</span>
+#- Reinforcement Learning
+#- Unmanned Aerial Vehicles (UAV's)
 
 # Education to show in About widget
 education:
