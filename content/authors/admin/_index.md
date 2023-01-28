@@ -100,7 +100,6 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 <b style="color:red;">Activities: </b>
 <ul>
   <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i> </li>
-  <li><b>[Jan. 2022]</b> Submitted paper to NAACL 2022.</li>
   <li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
   <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </i> </li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
