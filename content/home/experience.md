@@ -50,7 +50,7 @@ experience:
   - title: <b>Graduate Student (MEng)</b>
     company: <b>NAIST</b>
     company_url: 'http://www.naist.jp/en/'
-    company_logo: org-naist
+    company_logo: trace
     location: Ikoma, Nara, Japan
     date_start: '2020-04-01'
     date_end: '2022-03-26'
@@ -59,7 +59,7 @@ experience:
   - title: <b>English Language Instructor</b>
     company: <b>Gaba Corporation</b>
     company_url: 'https://www.gabateachinginjapan.com/'
-    #company_logo: org-un
+    company_logo: trace_Gaba
     location: Kyoto/Osaka, Japan
     date_start: '2018-08-01'
     date_end: '2022-03-31'
