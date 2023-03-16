@@ -70,12 +70,12 @@ item:
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
-  date_start: "2016-12-01"
+  #date_start: "2016-12-01"
   #description: ""
-  organization: UCC
+  #organization: UCC
   #organization_url: https://www.ucc.co.ug/ 
-  title: 'Finalist for the Best Undergrdauate students project in the national championships'
-  url: ""
+  #title: 'Finalist for the Best Undergrdauate students project in the national championships'
+  #url: ""
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"

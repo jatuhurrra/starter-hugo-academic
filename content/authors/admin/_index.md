@@ -80,6 +80,8 @@ highlight_name: false
 
 I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. My research interests lie in information extraction, evaluation of NLP models, multilingualism and low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
+I am also grateful for the supervision by <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a>.
+
 I am also affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part-time Researcher, and my work is primarily focused on <b>Intent Recognition in Language</b> for a Social Robot. I collaborate with <a href="https://scholar.google.co.jp/citations?user=I3_MfAMAAAAJ&hl=en">Eric Nichols</a> (and <a href="https://www.linkedin.com/in/antondelafuente/">Anton de la Fuente</a>, previously).
 
 Previously, I worked on <b>Intrusion Detection</b> in IoT networks in the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a> during my master's degree where <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a> advised me.
@@ -100,12 +102,17 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 <b style="color:red;">Activities: </b>
 <ul>
   <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i> </li>
-  <li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
-  <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </i> </li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
-  <li><b>[Oct. 2021]</b> Started building a Text corpus.</li>
   <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021.</li>
 </ul>
+
+<!--
+li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
+<li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </i> </li>
+<li><b>[Oct. 2021]</b> Started building a Text corpus.</li>
+-->
+
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 

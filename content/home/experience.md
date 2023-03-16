@@ -55,6 +55,16 @@ experience:
     date_start: '2020-04-01'
     date_end: '2022-03-26'
     description: I completed Master's degree in the <b>Large-scale Systems Management Lab</b> where I worked on <b>Intrusion Detection</b> with <b> Prof. Shoji Kasahara</b>.
+
+  - title: <b>English Language Instructor</b>
+    company: <b>Gaba Corporation</b>
+    company_url: 'https://www.gabateachinginjapan.com/'
+    company_logo: org-un
+    location: Kyoto/Osaka, Japan
+    date_start: '2018-08-01'
+    date_end: '2022-03-31'
+    #description: My work included one-on-one 
+
   - title: <b>Research Student</b>
     company: <b>Kyoto University</b>
     company_url: 'https://www.kyoto-u.ac.jp/en'
