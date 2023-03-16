@@ -77,7 +77,7 @@ experience:
   - title: <b>Junior Researcher</b>
     company: <b>United Nations Global Pulse Lab</b>
     company_url: 'https://www.unglobalpulse.org/'
-    company_logo: org-un
+    company_logo: trace_UNPLK
     location: Kampala, Uganda
     date_start: '2017-02-01'
     date_end: '2017-07-31'
