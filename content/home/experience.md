@@ -25,7 +25,7 @@ experience:
   - title: <b>Part time Researcher</b>
     company: <b>HONDA</b>
     company_url: 'http://www.jp.honda-ri.com/en/index.html'
-    company_logo: org-honda7
+    company_logo: trace_Honda
     location: Wako-shi, Saitama, Japan
     date_start: '2021-12-01'
     #date_end: '2022-01-31'
@@ -35,7 +35,7 @@ experience:
   - title: <b>Research Intern</b>
     company: <b>HONDA</b>
     company_url: 'http://www.jp.honda-ri.com/en/index.html'
-    company_logo: org-honda7
+    company_logo: trace_Honda
     location: Wako-shi, Saitama, Japan
     date_start: '2021-07-01'
     date_end: '2021-10-31'
