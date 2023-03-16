@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -85,7 +85,7 @@ item:
   organization_url: https://www.cisco.com
   title: 'Cisco Certified Network Associate (CCNA)'
   url: ""
-  
+
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
   #date_start: "2016-12-01"
@@ -102,8 +102,11 @@ item:
 #     Finalist for the Best Undergrdauate students' project in the national championships.
 #     Earned third-best place overall in my undergraduate class. 
 #     Earned a copyright to my Undergraduate project.
-    # Cisco Certified Network Associate (CCNA), 2015
+#     Cisco Certified Network Associate (CCNA), 2015
+
+
+#     THIS ACCOMPLISHMENTS PAGE HAS A BIG PROBLEM 
 
 design:
   columns: '2' 
----
+--- -->
