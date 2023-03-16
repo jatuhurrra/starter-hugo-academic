@@ -1,5 +1,4 @@
 
-<!-- ---
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -43,5 +42,3 @@ design:
 {{% callout note %}}
 Recent publications are available [here](./publication/).
 {{% /callout %}}
-
---- -->

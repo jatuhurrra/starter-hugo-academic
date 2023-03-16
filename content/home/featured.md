@@ -1,4 +1,3 @@
-<!-- ---
 
 ---
 # An instance of the Featured widget.
@@ -36,5 +35,3 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-
---- -->
