@@ -80,7 +80,7 @@ highlight_name: false
 
 I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. My research interests lie in information extraction, evaluation of NLP models, multilingualism and low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I am also grateful for the supervision by <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a>.
+I'm fortunate for the supervision by <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> too.
 
 I am also affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part-time Researcher, and my work is primarily focused on <b>Intent Recognition in Language</b> for a Social Robot. I collaborate with <a href="https://scholar.google.co.jp/citations?user=I3_MfAMAAAAJ&hl=en">Eric Nichols</a> (and <a href="https://www.linkedin.com/in/antondelafuente/">Anton de la Fuente</a>, previously).
 
@@ -97,6 +97,8 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 <p >1. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
 <b style="color:green;">Research Manuscripts Under Review:</b> <br>
 <p >Paper submitted to NAACL 2022. </p>
+Keep this LINK: https://stackoverflow.com/questions/64468843/netlify-deployment-failed-during-stage-building-site-build-script-returned-n
+keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 -->
 
 <b style="color:red;">Activities: </b>
