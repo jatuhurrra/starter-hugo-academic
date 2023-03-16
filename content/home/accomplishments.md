@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - #certificate_url: https://www.coursera.org
-  date_end: "2022-03-01"
-  date_start: "2021-07-01"
+  #date_end: "2022-03-01"
+  #date_start: "2021-07-01"
   #description: ""
   organization: HONDA
   organization_url: http://www.jp.honda-ri.com/en/
@@ -33,8 +33,8 @@ item:
   url: "http://www.jp.honda-ri.com/en/"
 
 - #certificate_url: https://www.coursera.org
-  date_end: "2022-02-01"
-  date_start: "2021-06-01"
+  #date_end: "2022-02-01"
+  #date_start: "2021-06-01"
   #description: ""
   organization: NAIST
   organization_url: http://www.naist.jp/en/
@@ -42,8 +42,8 @@ item:
   url: ""
 
 - #certificate_url: https://www.edx.org
-  date_end: "2025-03-01"
-  date_start: "2018-04-01"
+  #date_end: "2025-03-01"
+  #date_start: "2018-04-01"
   #description: ""
   organization: MEXT
   organization_url: https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm
@@ -51,8 +51,8 @@ item:
   url: ""
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2025-03-01"
-  date_start: "2020-04-01"
+  #date_end: "2025-03-01"
+  #date_start: "2020-04-01"
   #description: ""
   organization: IEEE
   organization_url: https://www.ieee.org/
@@ -60,8 +60,8 @@ item:
   url: ""
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2016-12-01"
-  date_start: "2016-08-01"
+  #date_end: "2016-12-01"
+  #date_start: "2016-08-01"
   #description: ""
   organization: UIRI
   organization_url: https://www.uiri.go.ug/
@@ -79,7 +79,7 @@ item:
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2016-03-01"
-  date_start: "2016-03-01"
+  #date_start: "2016-03-01"
   #description: ""
   organization: URSB
   organization_url: https://ursb.go.ug/
@@ -87,22 +87,15 @@ item:
   url: "https://gazettes.africa/gazettes/ug-government-gazette-dated-2018-08-31-no-46"
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2015-12-01"
-  date_start: "2015-06-01"
+  #date_end: "2015-12-01"
+  #date_start: "2015-06-01"
   #description: ""
   organization: CISCO
   organization_url: https://www.cisco.com
   title: 'Cisco Certified Network Associate (CCNA)'
   url: ""
 
-# - certificate_url: https://www.datacamp.com
-#   date_end: "2020-12-21"
-#   date_start: "2020-07-01"
-#   description: ""
-#   organization: DataCamp
-#   organization_url: https://www.datacamp.com
-#   title: 'Object-Oriented Programming in R'
-#   url: ""
+
 
 #     First international Research Intern at HONDA HRI-JP.
 #     One of three students chosen by the Japanese government in 2018 for the MEXT scholarship.
@@ -115,4 +108,4 @@ item:
 
 design:
   columns: '2' 
---- -->
+---
