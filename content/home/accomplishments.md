@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -41,15 +41,6 @@ item:
   title: 'Our team secured funding for Construction of Corpora'
   url: ""
 
-- #certificate_url: https://www.edx.org
-  date_end: "2025-03-01"
-  date_start: "2018-04-01"
-  #description: ""
-  organization: MEXT
-  organization_url: https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm
-  title: 'MEXT scholarship Awardee'
-  url: ""
-
 - #certificate_url: https://www.datacamp.com
   date_end: "2025-03-01"
   date_start: "2020-04-01"
@@ -57,6 +48,15 @@ item:
   organization: IEEE
   organization_url: https://www.ieee.org/
   title: 'Student member of IEEE, ACM and IACR'
+  url: ""
+
+- #certificate_url: https://www.edx.org
+  date_end: "2025-03-01"
+  date_start: "2018-04-01"
+  #description: ""
+  organization: MEXT
+  organization_url: https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm
+  title: 'MEXT scholarship Awardee'
   url: ""
 
 - #certificate_url: https://www.datacamp.com
@@ -105,8 +105,9 @@ item:
 #     Cisco Certified Network Associate (CCNA), 2015
 
 
+
 #     THIS ACCOMPLISHMENTS PAGE HAS A BIG PROBLEM 
 
 design:
   columns: '2' 
---- -->
+---

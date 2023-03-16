@@ -79,7 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. [I'm grateful for <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> guidance too.]
+I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. I'm grateful for <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> guidance too.
 
 My NLP research interests lie in information extraction, evaluation of NLP models, multilingualism and low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
