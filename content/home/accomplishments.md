@@ -51,7 +51,7 @@ item:
   url: ""
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2022-03-01"
+  date_end: "2025-03-01"
   date_start: "2020-04-01"
   #description: ""
   organization: IEEE
@@ -78,7 +78,7 @@ item:
   #url: ""
 
 - #certificate_url: https://www.datacamp.com
-  #date_end: "2020-12-21"
+  date_end: "2016-03-01"
   date_start: "2016-03-01"
   #description: ""
   organization: URSB
