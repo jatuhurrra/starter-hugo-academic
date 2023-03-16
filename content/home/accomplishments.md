@@ -23,68 +23,69 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- #certificate_url: https://www.datacamp.com ####################
-  date_end: "2015-12-01"
-  date_start: "2015-06-01"
-  #description: ""
-  organization: CISCO
-  organization_url: https://www.cisco.com
-  title: 'Cisco Certified Network Associate (CCNA)'
-  url: ""
-
-- #certificate_url: https://www.datacamp.com
-  #date_end: "2016-03-01"
-  date_start: "2016-03-01"
-  #description: ""
-  organization: URSB
-  organization_url: https://ursb.go.ug/
-  title: 'Earned a copyright to my Undergraduate project i.e. CUMPUS FLIGHT'
-  url: "https://gazettes.africa/gazettes/ug-government-gazette-dated-2018-08-31-no-46"
-
-- #certificate_url: https://www.datacamp.com
-  date_end: "2016-12-01"
-  date_start: "2016-08-01"
-  #description: ""
-  organization: UIRI
-  organization_url: https://www.uiri.go.ug/
-  title: 'Pioneer of Big Data research'
-  url: ""
-
-- #certificate_url: https://www.edx.org
-  date_end: "2025-03-01"
-  date_start: "2018-04-01"
-  #description: ""
-  organization: MEXT
-  organization_url: https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm
-  title: 'MEXT scholarship Awardee'
-  url: ""
-
-- #certificate_url: https://www.datacamp.com
-  date_end: "2025-03-01"
-  date_start: "2020-04-01"
-  #description: ""
-  organization: IEEE
-  organization_url: https://www.ieee.org/
-  title: 'Student member of IEEE, ACM and IACR'
-  url: ""
-
 - #certificate_url: https://www.coursera.org
-  date_end: "2022-02-01"
-  date_start: "2021-06-01"
-  #description: ""
-  organization: NAIST
-  organization_url: http://www.naist.jp/en/
-  title: 'Our team secured funding for Construction of Corpora'
-  url: ""
-  
-- #certificate_url: https://www.coursera.org
-  date_end: "2022-03-01"
-  date_start: "2021-07-01"
+  date_end: "Mar 2022"
+  date_start: "Jul 2021"
   #description: ""
   organization: HONDA
   organization_url: http://www.jp.honda-ri.com/en/
   title: 'International Research Intern Appointee'
   url: "http://www.jp.honda-ri.com/en/"
+
+- #certificate_url: https://www.coursera.org
+  date_end: "Feb 2022"
+  date_start: "Jun 2021"
+  #description: ""
+  organization: NAIST
+  organization_url: http://www.naist.jp/en/
+  title: 'Our team secured funding for Construction of Corpora'
+  url: ""
+
+# - #certificate_url: https://www.datacamp.com
+#   date_end: "2025-03-01"
+#   date_start: "2020-04-01"
+#   #description: ""
+#   organization: IEEE
+#   organization_url: https://www.ieee.org/
+#   title: 'Student member of IEEE, ACM and IACR'
+#   url: ""
+
+# - #certificate_url: https://www.edx.org
+#   date_end: "2025-03-01"
+#   date_start: "2018-04-01"
+#   #description: ""
+#   organization: MEXT
+#   organization_url: https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm
+#   title: 'MEXT scholarship Awardee'
+#   url: ""
+
+# - #certificate_url: https://www.datacamp.com
+#   date_end: "2016-12-01"
+#   date_start: "2016-08-01"
+#   #description: ""
+#   organization: UIRI
+#   organization_url: https://www.uiri.go.ug/
+#   title: 'Pioneer of Big Data research'
+#   url: ""
+
+# - #certificate_url: https://www.datacamp.com
+#   #date_end: "2016-03-01"
+#   date_start: "2016-03-01"
+#   #description: ""
+#   organization: URSB
+#   organization_url: https://ursb.go.ug/
+#   title: 'Earned a copyright to my Undergraduate project i.e. CUMPUS FLIGHT'
+#   url: "https://gazettes.africa/gazettes/ug-government-gazette-dated-2018-08-31-no-46"
+
+  
+# - #certificate_url: https://www.datacamp.com
+#   date_end: "2015-12-01"
+#   date_start: "2015-06-01"
+#   #description: ""
+#   organization: CISCO
+#   organization_url: https://www.cisco.com
+#   title: 'Cisco Certified Network Associate (CCNA)'
+#   url: ""
 
 - #certificate_url: https://www.datacamp.com
   #date_end: "2020-12-21"
