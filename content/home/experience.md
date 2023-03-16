@@ -59,7 +59,7 @@ experience:
   - title: <b>English Language Instructor</b>
     company: <b>Gaba Corporation</b>
     company_url: 'https://www.gabateachinginjapan.com/'
-    company_logo: org-un
+    #company_logo: org-un
     location: Kyoto/Osaka, Japan
     date_start: '2018-08-01'
     date_end: '2022-03-31'
