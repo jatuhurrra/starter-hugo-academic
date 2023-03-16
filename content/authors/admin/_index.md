@@ -6,7 +6,8 @@ title: Atuhurra Jesse
 superuser: true
 
 # Role/position/tagline
-role: PhD Information Science and Engineering
+#role: PhD Information Science and Engineering
+role: Ph.D. Candidate, Natural Language Processing (NLP)
 
 # Organizations/Affiliations to show in About widget
 organizations:
