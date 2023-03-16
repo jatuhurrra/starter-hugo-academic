@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.91.2"
+  HUGO_VERSION = "0.99.1"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
@@ -11,7 +11,7 @@
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
-  HUGO_VERSION = "0.91.2"
+  HUGO_VERSION = "0.99.1"
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
