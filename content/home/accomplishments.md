@@ -24,6 +24,15 @@ date_format: January 2, 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - #certificate_url: https://www.coursera.org
+  date_end: "February 1, 2022"
+  date_start: "June 1, 2021"
+  #description: ""
+  organization: NAIST
+  organization_url: http://www.naist.jp/en/
+  title: 'Our team secured funding for Construction of Corpora'
+  url: ""
+  
+- #certificate_url: https://www.coursera.org
   date_end: "March 31, 2022"
   date_start: "July 1, 2021"
   #description: ""
@@ -32,14 +41,7 @@ item:
   title: 'International Research Intern Appointee'
   url: "http://www.jp.honda-ri.com/en/"
 
-- #certificate_url: https://www.coursera.org
-  date_end: "February 1, 2022"
-  date_start: "June 1, 2021"
-  #description: ""
-  organization: NAIST
-  organization_url: http://www.naist.jp/en/
-  title: 'Our team secured funding for Construction of Corpora'
-  url: ""
+
 
 # - #certificate_url: https://www.datacamp.com
 #   date_end: "2025-03-01"
