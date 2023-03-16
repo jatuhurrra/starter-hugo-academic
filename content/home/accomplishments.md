@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
@@ -78,7 +78,7 @@ item:
   #url: ""
 
 - #certificate_url: https://www.datacamp.com
-  date_end: "2016-03-01"
+  #date_end: "2016-03-01"
   date_start: "2016-03-01"
   #description: ""
   organization: URSB
@@ -115,4 +115,4 @@ item:
 
 design:
   columns: '2' 
----
+--- -->
