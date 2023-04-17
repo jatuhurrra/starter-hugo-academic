@@ -81,9 +81,9 @@ highlight_name: false
 
 I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. I'm grateful for <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> guidance too.
 
-My NLP research interests lie in information extraction, evaluation of NLP models, multilingualism and low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
+My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Kwoledge Graphs, Multimodal AI, prompting in large language models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I am also affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part-time Researcher, and my work is primarily focused on <b>Intent Recognition in Language</b> for a Social Robot. I collaborate with <b>Eric Nichols</b> (and <b>Anton de la Fuente</b>, previously).
+I was affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part-time Researcher, and my work primarily focused on <b>Intent Recognition in Language</b> for a Social Robot. I collaborated with <b>Eric Nichols</b> and <b>Anton de la Fuente</b>.
 
 Previously, I worked on <b>Intrusion Detection</b> in IoT networks in the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a> during my master's degree where <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a> advised me.
 
