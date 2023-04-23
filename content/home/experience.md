@@ -27,8 +27,8 @@ experience:
     company_url: 'http://www.jp.honda-ri.com/en/index.html'
     company_logo: trace_Honda2
     location: Wako-shi, Saitama, Japan
-    date_start: '2021-12-01'
-    #date_end: '2022-01-31'
+    date_start: '2021-11-01'
+    date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
     description: |2-
         Research: Named-entity recognition, Knowledge base systems 
 
