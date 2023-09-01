@@ -83,6 +83,8 @@ I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
+I am currently undertaking a research internship at <a href="https://www.fujitsu.com/global/about/research/">Fujitsu AI Lab</a> where I am working on Multimodal Information Extraction. I'm working with <b>Prof. Tomoya Iwakura</b> and <a href="https://tathi.github.io/">Tatsuya Hiraoka</a>.
+
 I was affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part-time Researcher, and my work primarily focused on <b>Intent Recognition in Language</b> for a Social Robot. I collaborated with <a href="hhttps://scholar.google.co.jp/citations?user=I3_MfAMAAAAJ&hl=en">Eric Nichols</a> and <b>Anton de la Fuente</b>.
 
 Previously, I worked on <b>Intrusion Detection</b> in IoT networks in the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a> during my master's degree where <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a> advised me.
@@ -104,7 +106,8 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
 <b style="color:red;">Activities: </b>
 <ul>
-  <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i> </li>
+  <li><b>[Sept. 2023]</b> Started research internship at Fujitsu AI Lab.</li>
+  <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
   <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021.</li>
 </ul>
