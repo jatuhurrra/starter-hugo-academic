@@ -29,7 +29,8 @@ experience:
     location: Minato-ku, Tokyo, Japan
     date_start: '2023-09-04'
     #date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
-    description: Research focus is Multimodal Information Extraction, Visual Language Models (VLM).
+    description: |2-
+        Research: Multimodal Information Extraction, Vision Language Models (VLM).
 
   - title: <b>Part time Researcher</b>
     company: <b>HONDA</b>
