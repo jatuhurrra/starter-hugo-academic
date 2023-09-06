@@ -26,7 +26,7 @@ experience:
     company: <b>Fujitsu AI Lab</b>
     company_url: 'https://www.fujitsu.com/global/about/research/'
     company_logo: trace_fujitsu1
-    location: Minato-ku, Tokyo, Japan
+    location: Kawasaki, Kanagawa, Japan
     date_start: '2023-09-04'
     #date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
     description: |2-
