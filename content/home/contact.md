@@ -34,6 +34,4 @@ design:
 ---
 <p>Email: atuhurra.jesse.ag2 [at] is.naist.jp </p>
 
-<p style="display: none;">
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ird9uhh872&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> 
-</p>
+<p style="display: none;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ird9uhh872&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script></p>
