@@ -20,8 +20,8 @@ bio: My research interests broadly include NLP, Human Computer Interaction, Repr
 # Interests to show in About widget
 interests:
 - Natural Language Processing
-- Conversational AI
-- Social Robotics
+- Multimodal Foundation Models
+- Social Robotics #(esp. Conversational AI)
 - Human—Robot Interaction
 - Representation Learning
 #- Others <span>&#128065;&#65039;&#128065;&#65039; &#128071;&#128071;</span>
