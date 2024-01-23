@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: <b>Research Assistant</b>
+    company: <b>RIKEN AIP</b>
+    company_url: 'https://grp.riken.jp/en/labs/knowl_acqui_dialogue/'
+    company_logo: trace_fujitsu1
+    location: Sorakugun, kyoto, Japan
+    date_start: '2024-01-01'
+    #date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
+    description: |2-
+        Research: Multimodal Perception in Social Robots.
+
   - title: <b>Research Intern</b>
     company: <b>Fujitsu AI Lab</b>
     company_url: 'https://www.fujitsu.com/global/about/research/'
     company_logo: trace_fujitsu1
     location: Kawasaki, Kanagawa, Japan
     date_start: '2023-09-04'
-    #date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
+    #date_end: '2023-12-31'
     description: |2-
         Research: Multimodal Information Extraction, Vision Language Models (VLM).
 
