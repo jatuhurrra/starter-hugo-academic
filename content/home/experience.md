@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: <b>Research Assistant</b>
+  - title: <b>Research Assistant</b>
     company: <b>RIKEN AIP</b>
     company_url: 'https://grp.riken.jp/en/labs/knowl_acqui_dialogue/'
     company_logo: trace_fujitsu1
