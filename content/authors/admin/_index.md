@@ -83,7 +83,7 @@ I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I am currently working on social robots under the <b>Guardian Robot Project</b> at <a href="https://grp.riken.jp/en/labs/knowl_acqui_dialogue/">RIKEN AIP</a> where I am specifically contributing to <b>First-person multimodal perception</b> through <b>Attribute collection</b> and <b>Vision Language Models (VLMs)</b>. I'm working with <a href="https://pompdp.net">Koichiro Yoshino</a>.
+I am currently working on social robots under the <b>Guardian Robot Project</b> at <a href="https://grp.riken.jp/en/labs/knowl_acqui_dialogue/">RIKEN AIP</a> where I am specifically contributing to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I'm working with <a href="https://pomdp.net">Koichiro Yoshino</a>.
 
 I undertook a research internship at <a href="https://www.fujitsu.com/global/about/research/">Fujitsu AI Lab</a> where I worked on Multimodal Information Extraction. I worked with <b>Prof. Tomoya Iwakura</b> and <a href="https://tathi.github.io/">Tatsuya Hiraoka</a>.
 
@@ -108,6 +108,7 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
 <b style="color:red;">Activities: </b>
 <ul>
+  <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN.</li>
   <li><b>[Sept. 2023]</b> Started research internship at Fujitsu AI Lab.</li>
   <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
