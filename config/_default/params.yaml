@@ -160,7 +160,7 @@ icon:
 footer:
   block: minimal
   copyright:
-    notice: '© 2023 Atuhurra Jesse. This work is licensed under CC BY-ND 4.0'
+    notice: '© 2024 Atuhurra Jesse. This work is licensed under CC BY-ND 4.0'
     license:
       enable: true
       allow_derivatives: false
