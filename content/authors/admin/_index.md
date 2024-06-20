@@ -79,7 +79,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student in the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. I'm grateful for <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> guidance too.
+I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. I'm grateful for <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> guidance too.
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
@@ -113,6 +113,12 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
   <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li>
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda.</li>
   <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021.</li>
+</ul>
+
+<b style='color:purple !important;'>Published (Robotics): </b>
+<ul>
+    <li>Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models, IEEE International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024).</li>
+    <li>The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges, Assistive Robots @ Robotics: Science and Systems (RSS 2024), Delft, Netherlands (July 15 - 19, 2024).</li>
 </ul>
 
 <!--
