@@ -121,6 +121,8 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
     <li>The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges, Assistive Robots @ Robotics: Science and Systems (RSS 2024), Delft, Netherlands (July 15 - 19, 2024).</li>
 </ul>
 
+<b style='color:purple !important;'>Google Scholar 👉 &#128073; </b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Here.</a>
+
 <!--
 li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
 <li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </i> </li>
