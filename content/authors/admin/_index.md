@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 #role: PhD Information Science and Engineering
-role: Ph.D. Candidate, Natural Language Processing (NLP)
+role: Ph.D. Candidate, Natural Language Processing (NLP), <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Google Scholar</a></h3>
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -83,7 +83,7 @@ I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I am currently working on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I am specifically contributing to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I'm working with <a href="https://pomdp.net">Koichiro Yoshino</a>.
+I am currently working on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I am specifically contributing to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I'm working with <a href="https://pomdp.net">Koichiro Yoshino</a>. <!-- RIKEN R-IH is different from RIKEN AIP -->
 
 I undertook a research internship at <a href="https://www.fujitsu.com/global/about/research/">Fujitsu AI Lab</a> where I worked on <i>Multimodal Information Extraction</i>. I worked with <b>Prof. Tomoya Iwakura</b> and <a href="https://tathi.github.io/">Tatsuya Hiraoka</a>.
 
@@ -121,7 +121,9 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
     <li>The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges, Assistive Robots @ Robotics: Science and Systems (RSS 2024), Delft, Netherlands (July 15 - 19, 2024).</li>
 </ul>
 
+<!--
 <h3><b style='color:purple !important;'>Google Scholar 👉 &#128073; </b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Here.</a></h3>
+-->
 
 <!--
 li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>

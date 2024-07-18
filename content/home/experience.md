@@ -23,8 +23,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: <b>Research Assistant</b>
-    company: <b>RIKEN AIP</b>
-    company_url: 'https://grp.riken.jp/en/labs/knowl_acqui_dialogue/'
+    company: <b>RIKEN (R-IH)</b>
+    company_url: 'https://www.riken.jp/en/research/labs/r-ih/'
     company_logo: trace_RIKEN
     location: Sorakugun, Kyoto, Japan
     date_start: '2024-01-01'
