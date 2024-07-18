@@ -83,7 +83,7 @@ I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I am currently working on social robots under the <b>Guardian Robot Project</b> at <a href="https://grp.riken.jp/en/labs/knowl_acqui_dialogue/">RIKEN AIP</a> where I am specifically contributing to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I'm working with <a href="https://pomdp.net">Koichiro Yoshino</a>.
+I am currently working on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I am specifically contributing to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I'm working with <a href="https://pomdp.net">Koichiro Yoshino</a>.
 
 I undertook a research internship at <a href="https://www.fujitsu.com/global/about/research/">Fujitsu AI Lab</a> where I worked on <i>Multimodal Information Extraction</i>. I worked with <b>Prof. Tomoya Iwakura</b> and <a href="https://tathi.github.io/">Tatsuya Hiraoka</a>.
 
