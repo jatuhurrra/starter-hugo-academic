@@ -32,8 +32,16 @@ content:
 design:
   columns: '2'
 ---
-<p>Email: atuhurra.jesse.ag2 [at] is.naist.jp </p>
+<p>Email(s): atuhurra.jesse.ag2 [at] is.naist.jp OR atuhurrajesse@gmail.com</p>
 
+<!-- 
 <p>
     <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ird9uhh872&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> 
 </p>
+-->
+
+<p>
+<a title="GDPR-compliant Web Analytics" href="https://clicky.com/101469915"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101469915" src="//static.getclicky.com/js"></script>
+</p>
+
