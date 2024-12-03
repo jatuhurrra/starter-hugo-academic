@@ -1,8 +1,10 @@
 ---
-# Projects section
+# Projects section using the Portfolio widget
 widget: portfolio
-headless: true
-weight: 65  # Order on the page
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 65  # Order that this section appears on the page.
+
 title: Projects
 subtitle: ''
 
@@ -10,21 +12,16 @@ content:
   # Page type to display. E.g. project.
   page_type: project
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  # Filter options (optional)
   filter_default: 0
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+    - name: All
+      tag: '*'
+    - name: Deep Learning
+      tag: 'Deep Learning'
+    - name: Other
+      tag: ''
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
