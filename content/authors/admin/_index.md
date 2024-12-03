@@ -83,7 +83,8 @@ I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I am currently working with <a href="https://www.dfki.de/en/web">Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)</a> especially the <a href="https://www.dfki.de/en/web/about-us/locations-contact/berlin">DFKI Lab Berlin</a> to construct <i>language resources for Swahili and North European languages</i>. I'm working with <a href="https://dfki-nlp.github.io/authors/leonhard-hennig/">Leonhard Hennig</a>. 
+I am currently working with <a href="https://www.dfki.de/en/web">Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)</a> especially the <a href="https://www.dfki.de/en/web/about-us/locations-contact/berlin">DFKI Lab Berlin</a> to construct <i>language resources for Swahili and North European languages</i>. 
+<!-- I'm working with <a href="https://dfki-nlp.github.io/authors/leonhard-hennig/">Leonhard Hennig</a>. -->
 
 I worked on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I am specifically contributed to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I worked with <a href="https://pomdp.net">Koichiro Yoshino</a>. 
 <!-- RIKEN R-IH is different from RIKEN AIP -->
