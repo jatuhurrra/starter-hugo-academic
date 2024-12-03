@@ -70,12 +70,14 @@ experience:
     date_start: '2021-07-01'
     date_end: '2021-10-31'
     description: |2-
-        Responsibilities include:
+        Research: Intent Recognition in Language for HARU
+    # description: |2-
+    #     Responsibilities include:
 
-        * Intent Recognition dataset construction
-        * Text-based intent recognition model construction
-        * Evaluation of the initial model
-        * Refinement of intent recognition model
+    #     * Intent Recognition dataset construction
+    #     * Text-based intent recognition model construction
+    #     * Evaluation of the initial model
+    #     * Refinement of intent recognition model
         
   - title: <b>Graduate Student (MEng)</b>
     company: <b>NAIST</b>
