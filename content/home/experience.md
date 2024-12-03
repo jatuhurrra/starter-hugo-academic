@@ -50,7 +50,7 @@ experience:
     date_start: '2023-09-04'
     date_end: '2023-12-31'
     description: |2-
-        Research: Multimodal Information Extraction, Vision Language Models (VLMs)
+        Research: Multimodal Information Extraction, Vision Language Models (VLMs).
 
   - title: <b>Part time Researcher</b>
     company: <b>HONDA</b>
@@ -60,7 +60,7 @@ experience:
     date_start: '2021-11-01'
     date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
     description: |2-
-        Research: Named Entity Recognition, Knowledge Bases, Knowledge Graphs 
+        Research: Named Entity Recognition, Knowledge Bases, Knowledge Graphs. 
 
   - title: <b>Research Intern</b>
     company: <b>HONDA</b>
@@ -70,7 +70,7 @@ experience:
     date_start: '2021-07-01'
     date_end: '2021-10-31'
     description: |2-
-        Research: Intent Recognition in Language for HARU
+        Research: Intent Recognition in Language for HARU.
     # description: |2-
     #     Responsibilities include:
 
