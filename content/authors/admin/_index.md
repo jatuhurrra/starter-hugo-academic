@@ -15,13 +15,13 @@ organizations:
   url: http://www.naist.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests broadly include NLP, Human Computer Interaction, Representation Learning, and Reinforcement Learning.
+bio: My research interests broadly include NLP, Social Robotics, and Representation Learning.
 
 # Interests to show in About widget
 interests:
 - Natural Language Processing
 - Multimodal Foundation Models
-- Social Robotics #(esp. Conversational AI)
+- Social Robotics 
 - Human—Robot Interaction
 - Representation Learning
 #- Others <span>&#128065;&#65039;&#128065;&#65039; &#128071;&#128071;</span>
