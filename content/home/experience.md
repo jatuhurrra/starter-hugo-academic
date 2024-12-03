@@ -25,7 +25,7 @@ experience:
   - title: <b>Research Intern</b>
     company: <b>German Research Center for Artificial Intelligence (DFKI)</b> # Deutsches Forschungszentrum für Künstliche Intelligenz GmbH 
     company_url: 'https://www.dfki.de/en/web'
-    company_logo: trace_DFKI
+    company_logo: trace_DFKI1
     location: Berlin, Germany
     date_start: '2024-12-01'
     #date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
