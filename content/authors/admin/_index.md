@@ -83,7 +83,10 @@ I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I am currently working on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I am specifically contributing to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I'm working with <a href="https://pomdp.net">Koichiro Yoshino</a>. <!-- RIKEN R-IH is different from RIKEN AIP -->
+I am currently working with <a href="https://www.dfki.de/en/web">Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)</a> especially the <a href="https://www.dfki.de/en/web/about-us/locations-contact/berlin">DFKI Lab Berlin</a> to construct <i>language resources for Swahili and North European languages</i>. I'm working with <a href="https://dfki-nlp.github.io/authors/leonhard-hennig/">Leonhard Hennig</a>. 
+
+I worked on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I am specifically contributed to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I worked with <a href="https://pomdp.net">Koichiro Yoshino</a>. 
+<!-- RIKEN R-IH is different from RIKEN AIP -->
 
 I undertook a research internship at <a href="https://www.fujitsu.com/global/about/research/">Fujitsu AI Lab</a> where I worked on <i>Multimodal Information Extraction</i>. I worked with <b>Prof. Tomoya Iwakura</b> and <a href="https://tathi.github.io/">Tatsuya Hiraoka</a>.
 
@@ -94,8 +97,6 @@ Previously, I worked on <i>Intrusion Detection</i> in IoT networks in the <a hre
 I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods mainly related to Information Retrieval, Databases, Human-Computer Interface design and Artificial Intelligence.
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
-
-<!-- At the same time, I'm working on a few projects in NLP namely; <b>Syllable Tokenization</b> and <b>Corpus Building</b> with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a> and <a href="https://hshindo.com/">Asst. Prof. Hiroyuki Shindo</a> from the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> at NAIST. -->
 
 <!--
 <b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
@@ -125,15 +126,10 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 <h3><b style='color:purple !important;'>Google Scholar 👉 &#128073; </b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Here.</a></h3>
 -->
 
-<!--
-li><b>[Nov. 2021]</b> Started building SOTA supply chain solution with my META-GREEN Team.</li>
-<li><b>[Nov. 2021]</b> Conference presentation at RISING 2021. Title: <i>On Attack Pattern Classification in IoT Networks for Network Intrusion Detection Systems </i> </li>
-<li><b>[Oct. 2021]</b> Started building a Text corpus.</li>
--->
-
-
-
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 <!-- The stufff below works -->
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ird9uhh872&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> -->
+
+<!-- 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ird9uhh872&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> 
+-->

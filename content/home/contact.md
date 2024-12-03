@@ -32,7 +32,7 @@ content:
 design:
   columns: '2'
 ---
-<p>Email(s): atuhurra.jesse.ag2 [at] is.naist.jp OR atuhurrajesse@gmail.com</p>
+<p>Email(s): atuhurra.jesse.ag2 [at] is.naist.jp OR atuhurrajesse [at] gmail.com</p>
 
 <!-- 
 <p>
