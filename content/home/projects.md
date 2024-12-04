@@ -7,7 +7,7 @@ widget: projects
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Projects
 subtitle:
@@ -19,4 +19,4 @@ design:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Latent composability of the best models is only about 5% for the test queries where the bridge entity is a year, but the number is above 80% when the bridge entity is a country. Latent composability tends to increase roughly linearly with respect to the number of known single-hop facts, and tends to be higher for larger models, but the rate of increment and the gain from model scale also significantly differs according to the type of the bridge entity. Comparisons with Chain-of-Thought composability highlight a significant gap between latent and explicit reasoning. By performing initial investigations and drawing connections to related works, we suggest several unlikely and plausible hypotheses on the factors that may determine latent compositionality. In sum, our work provides the resource, insights, and potential future directions for precise evaluation, understanding, and improvement of latent reasoning of LLMs.
