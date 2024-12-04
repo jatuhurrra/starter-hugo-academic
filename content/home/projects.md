@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '2'
 
-This is the first attempt at writing a project slide.
+# This is the first attempt at writing a project slide.
 
 ---
 
