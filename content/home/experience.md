@@ -38,7 +38,7 @@ experience:
     company_logo: trace_RIKEN
     location: Sorakugun, Kyoto, Japan
     date_start: '2024-01-01'
-    date_end: '2024-11-20' 
+    # date_end: '2024-11-20' 
     description: |2-
         Research: Multimodal Perception in Social Robots.
 

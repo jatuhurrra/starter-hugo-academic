@@ -110,7 +110,7 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
 <b style="color:red;">Activities: </b>
 <ul>
-  <li><b>[Dec. 2024]</b>Started research internship at DFKI Berlin.</li>
+  <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
   <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN.</li>
   <li><b>[Sept. 2023]</b> Started research internship at Fujitsu AI Lab.</li>
   <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li>
