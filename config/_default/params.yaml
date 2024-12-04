@@ -9,10 +9,13 @@ theme: minimal
 day_night: false
 font: ''
 font_size: xs
-css_custom: |
-    .card-text {
-      font-size: 0.3rem !important;
-    }
+custom_css:
+    - css/custom.css  # If you create a static/css/custom.css file
+    
+# css_custom: |                    # wanted to use this code below to reduce font size but actually it doesn't work
+#     .card-text {
+#       font-size: 0.6rem !important;
+#     }
 
 # Just use any of the below values for font size:
 # 0.8rem = small
