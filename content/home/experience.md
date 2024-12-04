@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: Experience
-subtitle: [Graduate \& Internships]
+subtitle: (Graduate  &amp; Internships)
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
