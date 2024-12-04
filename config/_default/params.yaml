@@ -32,28 +32,28 @@ address:
 coordinates:
   latitude: '34.7326'
   longitude: '135.7340'
-directions: Enter Block B of the IS Building  and take the elevator to Office B706 on Floor 7
+directions: Enter Block A of the IS Building  and take the elevator to Office B706 on Floor 7
 office_hours:
   - 'Monday ~ Friday 8:00 to 18:00'
 
 #appointment_url: 'https://calendly.com'
-#contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
-#  - icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+contact_links:
+ - icon: twitter
+   icon_pack: fab
+   name: DM Me
+   link: 'https://twitter.com/Twitter'
+ - icon: skype
+   icon_pack: fab
+   name: Skype Me
+   link: 'skype:echo123?call'
+ - icon: keybase
+   icon_pack: fab
+   name: Chat on Keybase
+   link: 'https://keybase.io/'
+ - icon: comments
+   icon_pack: fas
+   name: Discuss on Forum
+   link: 'https://discourse.gohugo.io'
 
 # Site header
 
