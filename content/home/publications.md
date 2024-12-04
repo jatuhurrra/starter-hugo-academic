@@ -8,7 +8,7 @@ headless: true
 weight: 30
 
 title: Publications
-subtitle: (Preprints  &amp; Conferences)
+# subtitle: (Preprints  &amp; Conferences)
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
