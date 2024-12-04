@@ -22,7 +22,10 @@ main:
   - name: Contact
     url: '#contact'
     weight: 40
-    
+  - name: Projects
+    url: '#projects'
+    weight: 50
+
   #- name: News
   #  url: '#news'
   #  weight: 80
