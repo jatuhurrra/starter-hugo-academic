@@ -11,7 +11,7 @@ font: ''
 font_size: xs
 css_custom: |
     .card-text {
-      font-size: 0.5rem !important;
+      font-size: 0.3rem !important;
     }
 
 # Just use any of the below values for font size:
