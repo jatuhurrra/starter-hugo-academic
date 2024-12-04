@@ -9,10 +9,7 @@ theme: minimal
 day_night: false
 font: ''
 font_size: xs
-
- # Add your custom design parameters here
-design:
-  css_style: |
+css_custom: |
     .card-text {
       font-size: 0.6rem !important;
     }
