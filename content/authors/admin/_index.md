@@ -117,7 +117,7 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
   <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021.</li>
 </ul>
 
-<h5><b style='color:purple !important;'>Published (Robotics): </b></h5>
+<h6><b style='color:purple !important;'>Published (Robotics): </b></h6>
 <ul>
     <li>Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models, IEEE International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024).</li>
     <li>The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges, Assistive Robots @ Robotics: Science and Systems (RSS 2024), Delft, Netherlands (July 15 - 19, 2024).</li>
