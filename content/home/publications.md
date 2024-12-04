@@ -1,5 +1,6 @@
 ---
-widget: publications
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -8,6 +9,44 @@ headless: true
 weight: 30
 
 title: Publications
+subtitle: 'Preprints & Conferences'
+
+content:
+  # Filter content to display
+  filters:
+    folders:
+      - publication
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Field to sort by, such as Date or Title
+  sort_by: 'date'
+  sort_ascending: false
+
+design:
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
+
+
+
+# widget: publications
+
+# # This file represents a page section.
+# headless: true
+
+# # Order that this section appears on the page.
+# weight: 30
+
+# title: Publications
 # subtitle: (Preprints  &amp; Conferences)
 
 # Authors
@@ -97,7 +136,8 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 -->
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-{{% callout note %}}
+
+<!-- {{% callout note %}}
 Please find all my publications on <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Google Scholar</a>
 {{% /callout %}}
 
@@ -113,4 +153,21 @@ Please find all my publications on <a href="https://scholar.google.com/citations
     <li>HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities (COLING 2025), Abu Dhabi, UAE (January 19 – 24, 2025)</li>
     <li>Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024).</li>
     <li>The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges (Assistive Robots @ RSS 2024), Delft, Netherlands (July 15 - 19, 2024).</li>
-</ul>
+</ul> -->
+
+{{% callout note %}}
+Please find all my publications on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ)
+{{% /callout %}}
+
+#### Preprints
+
+* Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models
+* Distilling Named Entity Recognition Models for Endangered Species from Large Language Models
+* many more...
+
+#### Conferences
+
+* HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities (COLING 2025), Abu Dhabi, UAE (January 19 – 24, 2025)
+* Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024)
+* The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges (Assistive Robots @ RSS 2024), Delft, Netherlands (July 15 - 19, 2024)
+
