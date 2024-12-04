@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 #role: PhD Information Science and Engineering
-role: Ph.D. Candidate, Natural Language Processing (NLP), <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Google Scholar</a></h3>
+role: Ph.D. Candidate, Natural Language Processing (NLP), <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Google Scholar</a>
 
 # Organizations/Affiliations to show in About widget
 organizations:
