@@ -10,6 +10,15 @@ day_night: false
 font: ''
 font_size: xs
 
+ # Add your custom design parameters here
+design:
+  css_style: |
+    .card-text {
+      font-size: 0.6rem !important;
+    }
+
+
+
 # SEO
 
 site_type: Person
@@ -21,7 +30,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: atuhurra.jesse.ag2 [AT] is.naist.jp
-#phone: +8180 2580 1665
+phone: +8180 2580 1665
 address:
   street: 8916-5, Takayama
   city: Ikoma
