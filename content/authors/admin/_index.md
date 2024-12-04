@@ -57,13 +57,13 @@ social:
   link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/jatuhurrra
+  link: https://github.com/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/atuhurra-jesse-b2850ba8
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
