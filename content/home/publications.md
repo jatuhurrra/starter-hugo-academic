@@ -1,5 +1,14 @@
 ---
-title: 'Publications'
+widget: publications
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 30
+
+title: Publications
+subtitle: (Preprints \& Conferences)
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -99,7 +108,7 @@ Please find all my publications on <a href="https://scholar.google.com/citations
     <li>many more...</li>
 </ul>
 
-<h4><b>Conferences</b></h4>
+<h4>Conferences</h4>
 <ul>
     <li>HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities (COLING 2025), Abu Dhabi, UAE (January 19 – 24, 2025)</li>
     <li>Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024).</li>

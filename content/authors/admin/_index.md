@@ -108,21 +108,17 @@ Keep this LINK: https://stackoverflow.com/questions/64468843/netlify-deployment-
 keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 -->
 
-<b style="color:red;">Activities: </b>
+<h6><b style="color:red;">Activities:</b></h6>
 <ul>
   <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
   <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN &#x1F1EF;&#x1F1F5;.</li>
   <li><b>[Sept. 2023]</b> Started research internship at Fujitsu AI Lab &#x1F1EF;&#x1F1F5;.</li>
-  <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li>
+  <!-- <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li> -->
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda &#x1F1EF;&#x1F1F5;.</li>
   <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021 &#127482;&#127480;.</li>
 </ul>
 
-<h6><b style='color:purple !important;'>Published (Robotics): </b></h6>
-<ul>
-    <li>Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models, IEEE International Conference on Multimedia Information Processing and Retrieval (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024).</li>
-    <li>The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges, Assistive Robots @ Robotics: Science and Systems (RSS 2024), Delft, Netherlands (July 15 - 19, 2024).</li>
-</ul>
+
 
 <!--
 <h3><b style='color:purple !important;'>Google Scholar 👉 &#128073; </b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Here.</a></h3>

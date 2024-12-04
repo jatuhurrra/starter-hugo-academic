@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 50
 
 title: Contact
 subtitle:
@@ -41,7 +41,7 @@ design:
 -->
 
 <p>
-<a title="GDPR-compliant Web Analytics" href="https://clicky.com/101469915"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async data-id="101469915" src="//static.getclicky.com/js"></script>
+    <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101469915"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+    <script async data-id="101469915" src="//static.getclicky.com/js"></script>
 </p>
 
