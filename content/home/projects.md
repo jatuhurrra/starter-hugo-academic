@@ -33,9 +33,8 @@ design:
 
 .project-details {
    margin-bottom: 10px;
-   margin-top: 40px;  /* Space above each section */
-   font-size: 24px;
-   font-weight: bold;
+   margin-top: 10px;  /* Space above each section */
+   font-size: 18px;
 }
 </style>
 
