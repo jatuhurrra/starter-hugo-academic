@@ -150,7 +150,7 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
 }
 
 .author-list{
-    font-size: 12px;
+    font-size: 20px;
 }
 
 .paper-venue{
