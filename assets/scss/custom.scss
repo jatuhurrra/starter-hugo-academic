@@ -1,9 +1,10 @@
 // Custom styles to override font sizes
-.card-text {
-    font-size: 0.6rem !important;
-  }
   
 .project-card {
+    font-size: 0.6rem !important;
+  }
+
+.card-text {
     font-size: 0.6rem !important;
   }
   
@@ -15,7 +16,39 @@
     font-size: 0.8rem !important;
   }
   
-  
+/* New styles for publications */
+.pub-list {
+    font-size: 0.6rem !important;
+}
+
+.pub-publication {
+    font-size: 0.6rem !important;
+}
+
+.pub-authors {
+    font-size: 0.6rem !important;
+}
+
+.view-citation {
+    font-size: 0.6rem !important;
+}
+
+/* General section styles */
+.section {
+    font-size: 0.6rem !important;
+}
+
+/* Target specific widget content */
+[id^="publications"] .content {
+    font-size: 0.6rem !important;
+}
+
+/* Target citation view specifically */
+.citation {
+    font-size: 0.6rem !important;
+}
+
+
 
   // Just use any of the below values for font size:
         // 0.8rem = small

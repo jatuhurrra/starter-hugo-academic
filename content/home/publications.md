@@ -35,6 +35,7 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+  css_class: publications-section 
 
 
 
@@ -137,29 +138,11 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
-<!-- {{% callout note %}}
-Please find all my publications on <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Google Scholar</a>
-{{% /callout %}}
-
-<h4>Preprints</h4>
-<ul>
-    <li>Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models</li>
-    <li>Distilling Named Entity Recognition Models for Endangered Species from Large Language Models</li>
-    <li>many more...</li>
-</ul>
-
-<h4>Conferences</h4>
-<ul>
-    <li>HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities (COLING 2025), Abu Dhabi, UAE (January 19 – 24, 2025)</li>
-    <li>Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024).</li>
-    <li>The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges (Assistive Robots @ RSS 2024), Delft, Netherlands (July 15 - 19, 2024).</li>
-</ul> -->
-
 {{% callout note %}}
 Please find all my publications on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ)
 {{% /callout %}}
 
-#### Theses
+#### Thesis
 
 * **Dealing with Imbalanced Classes in Bot-IoT Dataset**  
   <u>Jesse Atuhurra</u>  
@@ -212,6 +195,10 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
 * **Distilling Named Entity Recognition Models for Endangered Species from Large Language Models**  
   <u>Jesse Atuhurra</u>, Seiveright Cargill Dujohn, Hidetaka Kamigaito, Hiroyuki Shindo, Taro Watanabe  
   arXiv:2403.15430
+
+* **Enrich Robots with Updated Knowledge in the Wild via Large Language Models**  
+  <u>Jesse Atuhurra</u> 
+  RG.2.2.15798.31048
 
 
 
