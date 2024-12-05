@@ -150,7 +150,7 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
 }
 
 .author-list{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .paper-venue{
@@ -166,35 +166,35 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
 
 **Dealing with Imbalanced Classes in Bot-IoT Dataset**  
  <u>Jesse Atuhurra</u>  
- M.Eng Information Science and Engineering
+  <p class='author-list'> M.Eng Information Science and Engineering </p>
 
 #### Conferences
 
 **HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities**  
- Iqra Ali, <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe  
- COLING 2025. Abu Dhabi, UAE. January 19–24, 2025.
+  <p class='author-list'> Iqra Ali, <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe  
+ COLING 2025. Abu Dhabi, UAE. January 19–24, 2025.</p>
 
 **Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models**  
- <u>Jesse Atuhurra</u>  
- IEEE MIPR 2024. San Jose, CA, USA. August 7-9, 2024.
+  <p class='author-list'> <u>Jesse Atuhurra</u>  
+ IEEE MIPR 2024. San Jose, CA, USA. August 7-9, 2024.</p>
 
 **The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges**  
- <u>Jesse Atuhurra</u>  
- Assistive Robots @ RSS 2024. Delft, Netherlands. July 15-19, 2024.
+  <p class='author-list'> <u>Jesse Atuhurra</u>  
+ Assistive Robots @ RSS 2024. Delft, Netherlands. July 15-19, 2024. </p>
 
 #### Preprints
 
 **NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER**  
-   <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Hiroki Ouchi, Hiroyuki Shindo, Taro Watanabe  
-   arxiv: 6029236 (submission on hold)
+    <p class='author-list'> <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Hiroki Ouchi, Hiroyuki Shindo, Taro Watanabe  
+   arxiv: 6029236 (submission on hold) </p>
 
 **Leveraging Large Language Models in Human-Robot Interaction: A Critical Analysis of Potential and Pitfalls**  
-   <u>Jesse Atuhurra</u>  
-   arXiv:2405.00693
+    <p class='author-list'> <u>Jesse Atuhurra</u>  
+   arXiv:2405.00693 </p>
 
 **Revealing Trends in Datasets from the 2022 ACL and EMNLP Conferences**  
-   <u>Jesse Atuhurra</u>, Hidetaka Kamigaito  
-   arXiv:2404.08666
+   <p class='author-list'> <u>Jesse Atuhurra</u>, Hidetaka Kamigaito  
+   arXiv:2404.08666 </p>
 
 **Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models**  
    <p class='author-list'> <u>Jesse Atuhurra</u>, Iqra Ali, Tatsuya Hiraoka, Hidetaka Kamigaito, Tomoya Iwakura, Taro Watanabe  
@@ -205,19 +205,19 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
    arXiv:2406.15358
 
 **Domain Adaptation in Intent Classification Systems: A Review**  
-   <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Eric Nichols  
-   arXiv:2404.14415
+    <p class='author-list'> <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Eric Nichols  
+   arXiv:2404.14415 </p>
 
 **Image Classification for CSSVD Detection in Cacao Plants**  
-   <u>Jesse Atuhurra</u>, N'guessan Yves-Roland Douha, Pabitra Lenka  
-   arXiv:2405.04535
+   <p class='author-list'> <u>Jesse Atuhurra</u>, N'guessan Yves-Roland Douha, Pabitra Lenka  
+   arXiv:2405.04535 </p>
 
 **Distilling Named Entity Recognition Models for Endangered Species from Large Language Models**  
-   <u>Jesse Atuhurra</u>, Seiveright Cargill Dujohn, Hidetaka Kamigaito, Hiroyuki Shindo, Taro Watanabe  
-   arXiv:2403.15430
+    <p class='author-list'> <u>Jesse Atuhurra</u>, Seiveright Cargill Dujohn, Hidetaka Kamigaito, Hiroyuki Shindo, Taro Watanabe  
+   arXiv:2403.15430 </p>
 
 **Enrich Robots with Updated Knowledge in the Wild via Large Language Models**  
-   <u>Jesse Atuhurra</u>  
-   RG.2.2.15798.31048
+   <p class='author-list'> <u>Jesse Atuhurra</u>  
+   RG.2.2.15798.31048 </p>
 
 
