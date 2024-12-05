@@ -251,8 +251,9 @@ p{
 <style> 
 .paper-title {
    font-size: 19px;
-   color: magenta;
+   color: violet;
    margin-bottom: 10px;  
+   font-weight: bold;
 }
 
 .author-list {
@@ -271,7 +272,7 @@ p{
 <h4 class="section-header">Thesis</h4>
 
 <div class='paper-title'>
-**Dealing with Imbalanced Classes in Bot-IoT Dataset**
+Dealing with Imbalanced Classes in Bot-IoT Dataset
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
@@ -281,7 +282,7 @@ M.Eng Information Science and Engineering
 <h4 class="section-header">Conferences</h4>
 
 <div class='paper-title'>
-**HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities**
+HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities
 </div>
 <div class='author-list'>
 Iqra Ali, <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe<br>
@@ -289,7 +290,7 @@ COLING 2025. Abu Dhabi, UAE. January 19–24, 2025.
 </div>
 
 <div class='paper-title'>
-**Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models**
+Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
@@ -297,7 +298,7 @@ IEEE MIPR 2024. San Jose, CA, USA. August 7-9, 2024.
 </div>
 
 <div class='paper-title'>
-**The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges**
+The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
@@ -307,7 +308,7 @@ Assistive Robots @ RSS 2024. Delft, Netherlands. July 15-19, 2024.
 <h4 class="section-header">Preprints</h4>
 
 <div class='paper-title'>
-**NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER**
+NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Hiroki Ouchi, Hiroyuki Shindo, Taro Watanabe<br>
@@ -315,7 +316,7 @@ arxiv: 6029236 (submission on hold)
 </div>
 
 <div class='paper-title'>
-**Leveraging Large Language Models in Human-Robot Interaction: A Critical Analysis of Potential and Pitfalls**
+Leveraging Large Language Models in Human-Robot Interaction: A Critical Analysis of Potential and Pitfalls
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
@@ -323,7 +324,7 @@ arXiv:2405.00693
 </div>
 
 <div class='paper-title'>
-**Revealing Trends in Datasets from the 2022 ACL and EMNLP Conferences**
+Revealing Trends in Datasets from the 2022 ACL and EMNLP Conferences
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Hidetaka Kamigaito<br>
@@ -331,7 +332,7 @@ arXiv:2404.08666
 </div>
 
 <div class='paper-title'>
-**Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models**
+Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Iqra Ali, Tatsuya Hiraoka, Hidetaka Kamigaito, Tomoya Iwakura, Taro Watanabe<br>
@@ -339,7 +340,7 @@ arXiv:2406.15359
 </div>
 
 <div class='paper-title'>
-**Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili**
+Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Hiroyuki Shindo, Hidetaka Kamigaito, Taro Watanabe<br>
@@ -347,7 +348,7 @@ arXiv:2406.15358
 </div>
 
 <div class='paper-title'>
-**Domain Adaptation in Intent Classification Systems: A Review**
+Domain Adaptation in Intent Classification Systems: A Review
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Eric Nichols<br>
@@ -355,7 +356,7 @@ arXiv:2404.14415
 </div>
 
 <div class='paper-title'>
-**Image Classification for CSSVD Detection in Cacao Plants**
+Image Classification for CSSVD Detection in Cacao Plants
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, N'guessan Yves-Roland Douha, Pabitra Lenka<br>
@@ -363,7 +364,7 @@ arXiv:2405.04535
 </div>
 
 <div class='paper-title'>
-**Distilling Named Entity Recognition Models for Endangered Species from Large Language Models**
+Distilling Named Entity Recognition Models for Endangered Species from Large Language Models
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Seiveright Cargill Dujohn, Hidetaka Kamigaito, Hiroyuki Shindo, Taro Watanabe<br>
@@ -371,7 +372,7 @@ arXiv:2403.15430
 </div>
 
 <div class='paper-title'>
-**Enrich Robots with Updated Knowledge in the Wild via Large Language Models**
+Enrich Robots with Updated Knowledge in the Wild via Large Language Models
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
