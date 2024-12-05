@@ -9,49 +9,12 @@
   }
   
 .section-subheading {
-    font-size: 0.7rem !important;
+    font-size: 0.6rem !important;
   }
 
 .article-style {
-    font-size: 0.8rem !important;
+    font-size: 0.6rem !important;
   }
-  
-/* New styles for publications */
-.pub-list {
-    font-size: 0.4rem !important;
-}
-
-.pub-publication {
-    font-size: 0.4rem !important;
-}
-
-.pub-authors {
-    font-size: 0.4rem !important;
-}
-
-.view-citation {
-    font-size: 0.4rem !important;
-}
-
-/* General section styles */
-.section {
-    font-size: 0.4rem !important;
-}
-
-/* Target specific widget content */
-[id^="publications"] .content {
-    font-size: 0.4rem !important;
-}
-
-/* Target citation view specifically */
-.citation {
-    font-size: 0.4rem !important;
-}
-
-#publications > div.home-section-bg{
-  background-color: red !important;
-}
-
 
   // Just use any of the below values for font size:
         // 0.8rem = small
