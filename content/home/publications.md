@@ -145,10 +145,18 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
 
 <style> 
 
-.author-list{
-    font-size: 100px;
+.paper-title{
+
 }
 
+.author-list{
+    font-size: 12px;
+}
+
+.paper-venue{
+
+
+}
     
 
 </style>
