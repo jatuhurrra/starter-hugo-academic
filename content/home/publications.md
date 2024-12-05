@@ -161,20 +161,21 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
 
 #### Conferences
 
-HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities (COLING 2025), Abu Dhabi, UAE (January 19 – 24, 2025)
-Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024)
-The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges (Assistive Robots @ RSS 2024), Delft, Netherlands (July 15 - 19, 2024)
+* HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities (COLING 2025), Abu Dhabi, UAE (January 19 – 24, 2025)
+* Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Language Models (IEEE MIPR 2024), San Jose, CA, USA (August 7-9, 2024)
+* The Impact of Large Language Models on Social Robots: Potential Benefits and Challenges (Assistive Robots @ RSS 2024), Delft, Netherlands (July 15 - 19, 2024)
 
 #### Preprints
 
-NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER 
-Leveraging Large Language Models in Human-Robot Interaction: A Critical Analysis of Potential and Pitfalls 
-Revealing Trends in Datasets from the 2022 ACL and EMNLP Conferences 
-Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models
-Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili 
-Domain Adaptation in Intent Classification Systems: A Review 
-Image Classification for CSSVD Detection in Cacao Plants 
-Distilling Named Entity Recognition Models for Endangered Species from Large Language Models
+* NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER\
+  Jesse Atuhurra, Hidetaka Kamigaito, Hiroki Ouchi, Hiroyuki Shindo, Taro Watanabe
+* Leveraging Large Language Models in Human-Robot Interaction: A Critical Analysis of Potential and Pitfalls 
+* Revealing Trends in Datasets from the 2022 ACL and EMNLP Conferences 
+* Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models
+* Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili 
+* Domain Adaptation in Intent Classification Systems: A Review 
+* Image Classification for CSSVD Detection in Cacao Plants 
+* Distilling Named Entity Recognition Models for Endangered Species from Large Language Models
 
 
 
