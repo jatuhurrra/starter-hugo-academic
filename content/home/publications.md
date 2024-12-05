@@ -181,7 +181,7 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
    arXiv:2406.15359
 
 **Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili**  
-   <u>Jesse Atuhurra</u>, Hiroyuki Shindo, Hidetaka Kamigaito, Taro Watanabe  
+   <p style='font-size:1px'><u>Jesse Atuhurra</u>, Hiroyuki Shindo, Hidetaka Kamigaito, Taro Watanabe  </p>
    arXiv:2406.15358
 
 **Domain Adaptation in Intent Classification Systems: A Review**  
