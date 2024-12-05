@@ -209,7 +209,7 @@ p{
    arXiv:2406.15358 </p>
 
 **Domain Adaptation in Intent Classification Systems: A Review**  
-    <p class='author-list'> <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Eric Nichols <br>  
+    <p class='author-list'> <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Eric Nichols   
    arXiv:2404.14415 </p>
 
 **Image Classification for CSSVD Detection in Cacao Plants**  
