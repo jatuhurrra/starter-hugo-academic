@@ -108,7 +108,7 @@ Keep this LINK: https://stackoverflow.com/questions/64468843/netlify-deployment-
 keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 -->
 
-<h6><b style="color:red;">Activities:</b></h6>
+<h6><b>Activities:</b></h6>
 <ul>
   <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
   <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN &#x1F1EF;&#x1F1F5;.</li>

@@ -145,7 +145,7 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
 <style> 
 
 .callout {
-    background-color: #f5f5f5;  /* Light grey color */
+    background-color: #ffebeb;  /* Light grey color */
     padding: 15px;
     margin: 20px 0;
     border-radius: 4px;
