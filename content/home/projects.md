@@ -24,7 +24,7 @@ design:
 .project-title {
    margin-bottom: 10px;
    margin-top: 20px;  /* Space above each section */
-   font-size: 24px;
+   font-size: 20px;
    font-weight: bold;
    color: violet;   /* violet appeared beautiful on the page */
    margin-bottom: 5px;  
@@ -34,7 +34,7 @@ design:
 .project-details {
    margin-bottom: 10px;
    margin-top: 10px;  /* Space above each section */
-   font-size: 18px;
+   font-size: 16px;
 }
 </style>
 
