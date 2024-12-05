@@ -142,6 +142,18 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 Please find all my publications on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ)
 {{% /callout %}}
 
+
+<style> 
+
+.author-list{
+    font-size: 100px;
+}
+
+    
+
+</style>
+
+
 #### Thesis
 
 **Dealing with Imbalanced Classes in Bot-IoT Dataset**  
@@ -177,11 +189,11 @@ Please find all my publications on [Google Scholar](https://scholar.google.com/c
    arXiv:2404.08666
 
 **Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models**  
-   <u>Jesse Atuhurra</u>, Iqra Ali, Tatsuya Hiraoka, Hidetaka Kamigaito, Tomoya Iwakura, Taro Watanabe  
-   arXiv:2406.15359
+   <p class='author-list'> <u>Jesse Atuhurra</u>, Iqra Ali, Tatsuya Hiraoka, Hidetaka Kamigaito, Tomoya Iwakura, Taro Watanabe  
+   arXiv:2406.15359 </p>
 
 **Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili**  
-   <p style='font-size:1px'><u>Jesse Atuhurra</u>, Hiroyuki Shindo, Hidetaka Kamigaito, Taro Watanabe  </p>
+   <p class='author-list'><u>Jesse Atuhurra</u>, Hiroyuki Shindo, Hidetaka Kamigaito, Taro Watanabe  </p>
    arXiv:2406.15358
 
 **Domain Adaptation in Intent Classification Systems: A Review**  
