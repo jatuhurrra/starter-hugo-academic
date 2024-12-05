@@ -139,17 +139,12 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 <!-- Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
 {{% callout note %}}
-Please find all my publications on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ)
+<div class="alert alert-light" style="background-color: #ffebeb;">
+Please find all my publications on <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ" target="_blank">Google Scholar</a>
+</div>
 {{% /callout %}}
 
 <style> 
-
-.callout {
-    background-color: #ffebeb;  /* Light grey color */
-    padding: 15px;
-    margin: 20px 0;
-    border-radius: 4px;
-}
 
 .paper-title {
    font-size: 19px;
