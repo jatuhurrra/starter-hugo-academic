@@ -22,13 +22,11 @@ design:
 <style> 
 
 .project-title {
-   margin-bottom: 10px;
+   margin-bottom: 5px;
    margin-top: 20px;  /* Space above each section */
    font-size: 20px;
    font-weight: bold;
-   color: violet;   /* violet appeared beautiful on the page */
-   margin-bottom: 5px;  
-   font-weight: bold;
+   color: violet;   /* violet appeared beautiful on the page */ 
 }
 
 .project-details {
