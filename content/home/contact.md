@@ -40,8 +40,19 @@ design:
 </p>
 -->
 
-<p>
+<!-- <p>
     <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101469915"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
     <script async data-id="101469915" src="//static.getclicky.com/js"></script>
-</p>
+</p> -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  
+  // Replace G-XXXXXXXXXX with your GA4 Measurement ID
+  gtag('config', 'G-TR6LD17FRX');
+</script>
 
