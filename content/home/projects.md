@@ -49,6 +49,7 @@ This project focuses on creating datasets for Named Entity Recognition (NER) and
 <div class='project-details'>
 We introduce RapidNER, a framework for efficiently creating named entity recognition (NER) datasets for new domains, with a focus on human-robot interaction. The framework operates through three key steps: 1) extracting domain-specific knowledge from Wikidata using instance-of and subclass-of relations, 2) collecting diverse texts from Wikipedia, Reddit, and Stack Exchange, and 3) implementing an efficient annotation scheme using Elasticsearch. We demonstrate the framework by creating NERsocial, a new dataset containing 153K tokens, 134K entities, and 99.4K sentences across six entity types relevant for social interactions: drinks, foods, hobbies, jobs, pets, and sports. When fine-tuned on NERsocial, transformer models like BERT, RoBERTa, and DeBERTa-v3 achieve F1-scores above 95%. The framework significantly reduces dataset creation time and effort while maintaining high quality, as evidenced by a 90.6% inter-annotator agreement.   <br>
 [<a href="https://arxiv.org/abs/6029236">PDF</a>] [<a href="https://github.com/jatuhurrra/rapidner">Code</a>] 
+[<a href="https://arxiv.org/abs/6029236">Data (HF)</a>] [<a href="https://jatuhurrra.github.io/Rapid/">Website</a>] 
 </div>
 
 <h4 class="project-title">Open-world Object Recognition</h4>
