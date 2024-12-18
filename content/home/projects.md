@@ -56,8 +56,10 @@ We introduce RapidNER, a framework for efficiently creating named entity recogni
 
 <div class='project-details'>
 One of the hardest tasks for robots is to recognize unseen objects, relevant to inform the execution of tasks in the robot's vicinity. In this project we leverage state-of-the-art foundaiton models to enhance the robot's ability to perceive the world around it, and then perfom complex reasoning tasks.    <br>
+<!---
 [<a href="https://github.com/jatuhurrra/OpenPerception">Code</a>] 
 </div>
+--->
 
 <h4 class="project-title">Visual Semantic Understanding</h4>
 
@@ -71,5 +73,5 @@ We introduce nine vision-and-language (VL) tasks and constructs multilingual dat
 <div class='project-details'>
 This research project investigates zero-shot user intent classification in human-robot interaction using large language models (LLMs). We created a new dataset containing 33,812 sentences across four languages (English, Japanese, Swahili, and Urdu) and six intent classes (pet, food, job, hobby, sport, and drink). We leveraged Wikidata knowledge graphs to extract sentences from Wikipedia articles and tested six different prompting methods with various LLMs including GPT-4, Claude 3, and Gemma. The experiments demonstrated that well-crafted prompts, utilizing adavanced prompting methods, enabled LLMs to achieve high accuracy in intent classification without requiring fine-tuning or example data, with GPT-4 and Claude 3 achieving nearly 95% accuracy across all languages. The study also showed that retrieval-augmented generation (RAG) improved classification performance, and simple zero-shot prompting was sufficient for achieving competitive results, especially with more capable LLMs like GPT-4 and Claude 3 Opus.  <br>
 [<a href="https://www.researchgate.net/publication/381548253_Zero-shot_Retrieval_of_User_Intent_in_Human-Robot_Interaction_with_Large_Language_Models">PDF</a>] 
-[<a href="https://github.com/jatuhurrra/VisualSemanticUnderstanding">Code</a>] 
+[<a href="https://github.com/jatuhurrra/LLM-for-Intent-Classification">Code</a>] 
 </div>
