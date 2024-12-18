@@ -131,3 +131,14 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 <!-- 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ird9uhh872&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> 
 -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TR6LD17FRX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  
+  // Replace G-XXXXXXXXXX with your GA4 Measurement ID
+  gtag('config', 'G-TR6LD17FRX');
+</script>
