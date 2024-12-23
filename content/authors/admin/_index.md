@@ -64,6 +64,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/atuhurra-jesse-b2850ba8
+- icon: robot  # Represents AI and fits Hugging Face
+  icon_pack: fas
+  link: https://huggingface.co/atamiles
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
