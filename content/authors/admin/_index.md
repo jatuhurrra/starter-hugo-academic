@@ -120,9 +120,6 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda &#x1F1EF;&#x1F1F5;.</li>
   <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021 &#127482;&#127480;.</li>
 </ul>
-
-
-
 <!--
 <h3><b style='color:purple !important;'>Google Scholar 👉 &#128073; </b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Here.</a></h3>
 -->
