@@ -208,7 +208,7 @@ NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Rob
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Hiroki Ouchi, Hiroyuki Shindo, Taro Watanabe<br>
-arxiv: 6029236 (submission on hold)
+arXiv:2412.09634
 </div>
 
 <div class='paper-title'>

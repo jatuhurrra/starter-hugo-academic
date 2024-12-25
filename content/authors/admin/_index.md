@@ -133,7 +133,7 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 -->
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TR6LD17FRX"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-TR6LD17FRX"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -141,4 +141,4 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
   
   // Replace G-XXXXXXXXXX with your GA4 Measurement ID
   gtag('config', 'G-TR6LD17FRX');
-</script>
+</script> -->
