@@ -103,13 +103,20 @@ I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Ky
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
 
 <!--
-<b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
-<p >1. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
-<b style="color:green;">Research Manuscripts Under Review:</b> <br>
-<p >Paper submitted to NAACL 2022. </p>
 Keep this LINK: https://stackoverflow.com/questions/64468843/netlify-deployment-failed-during-stage-building-site-build-script-returned-n
-keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
+keep this LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TR6LD17FRX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  
+  // Replace G-XXXXXXXXXX with your GA4 Measurement ID
+  gtag('config', 'G-TR6LD17FRX');
+</script>
 
 <h6><b>Activities:</b></h6>
 <ul>
@@ -132,13 +139,3 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ird9uhh872&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> 
 -->
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TR6LD17FRX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  
-  // Replace G-XXXXXXXXXX with your GA4 Measurement ID
-  gtag('config', 'G-TR6LD17FRX');
-</script>
