@@ -101,6 +101,7 @@ Previously, I worked on <i>Intrusion Detection</i> in IoT networks in the <a hre
 I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods mainly related to Information Retrieval, Databases, Human-Computer Interface design and Artificial Intelligence.
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
+
 <!--
 <b style="color:green;">Research Manuscripts Under Preparation:</b> <br>
 <p >1. Atuhurra Jesse, Takanori Hara, Yuanyu Zhang, and Shoji Kasahara, <b>OADIS: Online, Adaptive, Deep Learning based Intrusion Detection with SMOTE sampling in IoT networks</b>. </p>
@@ -109,6 +110,7 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 Keep this LINK: https://stackoverflow.com/questions/64468843/netlify-deployment-failed-during-stage-building-site-build-script-returned-n
 keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 -->
+
 <h6><b>Activities:</b></h6>
 <ul>
   <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
@@ -121,11 +123,15 @@ keep another LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 <!--
 <h3><b style='color:purple !important;'>Google Scholar 👉 &#128073; </b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Here.</a></h3>
 -->
+
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
 <!-- The stufff below works -->
+
 <!-- 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ird9uhh872&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> 
 -->
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TR6LD17FRX"></script>
 <script>
