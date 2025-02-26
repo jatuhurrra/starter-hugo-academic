@@ -7,7 +7,7 @@ superuser: true
 
 # Role/position/tagline
 #role: PhD Information Science and Engineering
-role: Ph.D. Candidate, Natural Language Processing (NLP), <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Google Scholar</a>
+role: Ph.D. Candidate, Natural Language Processing (NLP), <a href="https://scholar.google.com/citations?hl=en&user=2Li9kqwAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -94,11 +94,11 @@ I'm working on social robots under the <a href="https://grp.riken.jp/en/">Guardi
 
 I undertook a research internship at <a href="https://www.fujitsu.com/global/about/research/">Fujitsu AI Lab</a> where I worked on <i>Multimodal Information Extraction</i>. I worked with <b>Prof. Tomoya Iwakura</b> and <a href="https://tathi.github.io/">Tatsuya Hiraoka</a>.
 
-I was affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part-time Researcher, and my work primarily focused on <i>Intent Recognition in Language</i> for a Social Robot. I collaborated with <a href="hhttps://scholar.google.co.jp/citations?user=I3_MfAMAAAAJ&hl=en">Eric Nichols</a> and <b>Anton de la Fuente</b>.
+I was affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research Institute Japan (HRI-JP)</a> as a Part-time Researcher, and my work primarily focused on <i>Intent Recognition in Language</i> for a Social Robot. I collaborated with <a href="https://scholar.google.co.jp/citations?user=I3_MfAMAAAAJ&hl=en">Eric Nichols</a> and <b>Anton de la Fuente</b>.
 
 Previously, I worked on <i>Intrusion Detection</i> in IoT networks in the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a> during my master's degree where <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a> advised me.
 
-I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <a href="https://www.db.soc.i.kyoto-u.ac.jp/doku.php/en:start"> Yoshikawa Lab </a> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://www.db.soc.i.kyoto-u.ac.jp/~yoshikawa/index-en.html"> Prof. Masatoshi Yoshikawa </a> on several methods mainly related to Information Retrieval, Databases, Human-Computer Interface design and Artificial Intelligence.
+I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <b>Yoshikawa Lab</b> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://scholar.google.co.jp/citations?hl=ja&user=yMFHG7wAAAAJ&view_op=list_works&sortby=pubdate"> Prof. Masatoshi Yoshikawa </a> on several methods mainly related to Information Retrieval, Databases, Human-Computer Interface design and Artificial Intelligence.
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
 
