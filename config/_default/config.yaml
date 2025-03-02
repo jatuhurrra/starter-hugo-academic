@@ -7,6 +7,10 @@ title: Atuhurra Jesse # Website name
 baseurl: 'https://www.2021atajesse.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
+# Add params section if not already present
+params:
+  google_analytics: 'G-TR6LD17FRX'  # Your GA4 Measurement ID
+
 ############################
 ## LANGUAGE
 ############################
