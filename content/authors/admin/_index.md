@@ -57,7 +57,7 @@ social:
   # link: https://twitter.com/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=2Li9kqwAAAAJ&view_op=list_works&sortby=pubdate
 # - icon: github
   # icon_pack: fab
   # link: https://github.com/
@@ -119,6 +119,14 @@ keep this LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 </script>
 -->
 
+<!-- BEGIN WebSTAT Activation Code -->
+<script type="text/javascript" language="JavaScript" src="https://secure.webstat.com/cgi-bin/wsv2.cgi?150082"></script>
+<noscript>
+<a href="https://www.webstat.com">
+<img src="https://secure.webstat.com/scripts/wsb.php?ac=150082" border="0" alt="Web Metrics and Site Analytics by WebSTAT" /></a>
+</noscript>
+<!-- END WebSTAT Activation Code -->
+
 <h6><b>Activities:</b></h6>
 <ul>
   <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
@@ -128,9 +136,6 @@ keep this LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
   <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda &#x1F1EF;&#x1F1F5;.</li>
   <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021 &#127482;&#127480;.</li>
 </ul>
-<!--
-<h3><b style='color:purple !important;'>Google Scholar 👉 &#128073; </b> <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=2Li9kqwAAAAJ">Here.</a></h3>
--->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
