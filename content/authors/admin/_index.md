@@ -102,6 +102,24 @@ I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Ky
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
 
+<h6><b>Activities:</b></h6>
+<ul>
+  <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
+  <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN &#x1F1EF;&#x1F1F5;.</li>
+  <li><b>[Sept. 2023]</b> Started research internship at Fujitsu AI Lab &#x1F1EF;&#x1F1F5;.</li>
+  <!-- <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li> -->
+  <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda &#x1F1EF;&#x1F1F5;.</li>
+  <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021 &#127482;&#127480;.</li>
+</ul>
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
+<!-- The stufff below works -->
+
+<!-- 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ird9uhh872&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> 
+-->
+
 <!--
 Keep this LINK: https://stackoverflow.com/questions/64468843/netlify-deployment-failed-during-stage-building-site-build-script-returned-n
 keep this LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
@@ -127,21 +145,18 @@ keep this LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 </noscript>
 <!-- END WebSTAT Activation Code -->
 
-<h6><b>Activities:</b></h6>
-<ul>
-  <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
-  <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN &#x1F1EF;&#x1F1F5;.</li>
-  <li><b>[Sept. 2023]</b> Started research internship at Fujitsu AI Lab &#x1F1EF;&#x1F1F5;.</li>
-  <!-- <li><b>[Feb. 2022]</b> Master Thesis Defense on <i>Balancing Data Distribution for Intrusion-detection Analysis</i>.</li> -->
-  <li><b>[Oct. 2021]</b> Completed research internship, starting a new role at Honda &#x1F1EF;&#x1F1F5;.</li>
-  <li><b>[Sept. 2021]</b> Selected to participate in the AllenNLP Hacks 2021 &#127482;&#127480;.</li>
-</ul>
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-
-<!-- The stufff below works -->
-
-<!-- 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5ird9uhh872&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script> 
--->
+<!-- Statcounter code for 2021atajesse https://www.2021atajesse.com/ on Google
+Sites (new) -->
+<script type="text/javascript">
+var sc_project=13098492; 
+var sc_invisible=1; 
+var sc_security="65d7ab83"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/13098492/0/65d7ab83/1/" alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
 
