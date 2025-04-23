@@ -138,11 +138,11 @@ keep this LINK: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 -->
 
 <!-- BEGIN WebSTAT Activation Code -->
-<script type="text/javascript" language="JavaScript" src="https://secure.webstat.com/cgi-bin/wsv2.cgi?150082"></script>
+<!-- <script type="text/javascript" language="JavaScript" src="https://secure.webstat.com/cgi-bin/wsv2.cgi?150082"></script>
 <noscript>
 <a href="https://www.webstat.com">
 <img src="https://secure.webstat.com/scripts/wsb.php?ac=150082" border="0" alt="Web Metrics and Site Analytics by WebSTAT" /></a>
-</noscript>
+</noscript> -->
 <!-- END WebSTAT Activation Code -->
 
 <!-- Statcounter code for 2021atajesse https://www.2021atajesse.com/ on Google
