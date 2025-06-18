@@ -178,6 +178,14 @@ M.Eng Information Science and Engineering
 <h4 class="section-header">Conferences</h4>
 
 <div class='paper-title'>
+J-ORA: A Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception
+</div>
+<div class='author-list'>
+<u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Koichiro Yoshino<br>
+IROS 2025. Hangzhou, Zhejiang, China. October 19-25, 2025. (to appear)
+</div>
+
+<div class='paper-title'>
 HLU: Human vs. LLM Generated Text Detection Dataset for Urdu at Multiple Granularities
 </div>
 <div class='author-list'>

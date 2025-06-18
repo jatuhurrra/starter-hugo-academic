@@ -102,8 +102,10 @@ I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Ky
 
 My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
 
-<h6><b>Activities:</b></h6>
+<h6><b>Activities/News:</b></h6>
 <ul>
+  <li><b>[June 2025]</b> One paper accepted to IROS 2025 </li>
+  <li><b>[Apr. 2025]</b> Completed Japanese Medical Insurance Knowledge Graph at InfoDeliver Inc.</li>  
   <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
   <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN &#x1F1EF;&#x1F1F5;.</li>
   <li><b>[Sept. 2023]</b> Started research internship at Fujitsu AI Lab &#x1F1EF;&#x1F1F5;.</li>
