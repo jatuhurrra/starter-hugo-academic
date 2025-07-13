@@ -53,20 +53,20 @@ We introduce RapidNER, a framework for efficiently creating named entity recogni
 [<a href="https://huggingface.co/datasets/atamiles/NERsocial">Data (HF)</a>] [<a href="https://jatuhurrra.github.io/Rapid/">Website</a>] 
 </div>
 
-<h4 class="project-title">Open-world Object Recognition</h4>
+<h4 class="project-title">J-ORA: A Robot Perception Framework for Japanese</h4>
 
 <div class='project-details'>
-One of the hardest tasks for robots is to recognize unseen objects, relevant to inform the execution of tasks in the robot's vicinity. In this project we leverage state-of-the-art foundaiton models to enhance the robot's ability to perceive the world around it, and then perfom complex reasoning tasks.    <br>
-<!---
-[<a href="https://github.com/jatuhurrra/OpenPerception">Code</a>] 
+J-ORA is a novel benchmark and dataset designed to advance research at the intersection of robotics, vision, and language understanding in non-English settings, specifically Japanese. Developed through a collaboration between NAIST and the RIKEN Guardian Robot Project, J-ORA addresses key challenges in robot perception, including ambiguity in object reference, dynamic scene understanding, and multimodal instruction grounding. The benchmark provides a richly annotated multimodal dataset consisting of 142 real-world image-dialogue pairs, captured from a robot’s egocentric viewpoint. Each instance includes detailed object-attribute annotations, dialogue utterances in Japanese, bounding boxes, and grounded references, enabling evaluation across three core tasks: Object Identification, Reference Resolution, and Next Action Prediction. J-ORA further integrates real-world dynamics such as object occlusions, overlapping visual features, and temporal context to evaluate fine-grained multimodal reasoning. The dataset supports training and evaluation of Vision-Language Models (VLMs) under zero-shot and fine-tuned settings, and includes comparisons across proprietary models (e.g., GPT-4o, Gemini) and open-source Japanese VLMs. By addressing gaps in multilingual and grounded robotics datasets, J-ORA lays the foundation for building more perceptive, culturally adaptive, and interactive domestic service robots.
+[<a href="https://github.com/jatuhurrra/OpenPerception/">Code</a>] 
+[<a href="https://huggingface.co/datasets/atamiles/J-ORA/">Data (HF)</a>] [<a href="https://jatuhurrra.github.io/OpenPerception/">Website</a>] 
 </div>
---->
 
-<h4 class="project-title">Visual Semantic Understanding</h4>
+<h4 class="project-title">Visual-Language (VLURes) Benchmark</h4>
 
 <div class='project-details'>
-We introduce nine vision-and-language (VL) tasks and constructs multilingual datasets in English, Japanese, Swahili, and Urdu to evaluate vision language models (VLMs), with a particular focus on GPT-4V. The tasks include object recognition, scene understanding, relationship understanding, semantic segmentation, image captioning, image-text matching, unrelatedness (a newly introduced task), entity extraction, and visual question answering. We collected 1,000 image-text pairs from Wikinews and Wikipedia across 10 categories, selected 200 pairs for detailed analysis, and used GPT-4V to generate answers and rationales for each task in all four languages. Native speakers evaluated the quality of translations and model outputs using a 5-point Likert scale. The results showed that GPT-4V performed best in English (94.81% accuracy), followed by Urdu (90.56%), Japanese (88.09%), and Swahili (83.57%), with better performance on image-only tasks compared to tasks requiring both image and text understanding. This project contributes to the new frontier of omprehensive VL analysis in Swahili and Urdu languages.   <br>
-[<a href="https://arxiv.org/abs/2406.15359">PDF</a>] [<a href="https://github.com/jatuhurrra/VisualSemanticUnderstanding">Code</a>] 
+VLURes is a comprehensive multilingual benchmark designed to evaluate and advance the capabilities of Vision-Language Models (VLMs) across diverse linguistic and cultural contexts. It introduces eight vision-and-language tasks—ranging from Scene Understanding, Relation Understanding, Semantic Segmentation, Image Captioning, Image-Text Matching, Visual Question Answering, to novel tasks like Unrelatedness Detection and Multilingual Transfer—spanning both image-only and image-text modalities. Unlike existing benchmarks that focus primarily on English (or occasionally Chinese), VLURes includes four languages: English (En), Japanese (Jp), Swahili (Sw), and Urdu (Ur), with a special emphasis on low-resource languages that are often underrepresented in AI research. The benchmark contains 1,000 high-quality image-text pairs per language, each embedded in article-level long-form text, allowing rigorous testing of discourse-level grounding and cross-modal reasoning. VLURes also evaluates zero-shot and one-shot generalization, with and without rationales, and introduces fine-tuning experiments to assess language transfer. Through extensive evaluation of state-of-the-art proprietary and open-source VLMs (e.g., GPT-4o, Gemini, Llava, Qwen2VL), VLURes reveals persistent performance gaps, especially in Swahili and Urdu, underscoring the urgent need for equitable, globally aware multimodal AI.  <br>
+[<a href="https://arxiv.org/abs/2406.15359">PDF</a>] [<a href="https://github.com/jatuhurrra/VLURes/">Code</a>] 
+[<a href="https://huggingface.co/datasets/atamiles/VLURes/">Data (HF)</a>] [<a href="https://jatuhurrra.github.io/VLURes/">Website</a>] 
 </div>
 
 <h4 class="project-title">Zero-shot Intent Recognition</h4>
