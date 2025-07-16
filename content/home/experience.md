@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: <b>Research Assistant</b>
-    company: <b>Tokyo Tech</b> # Deutsches Forschungszentrum für Künstliche Intelligenz GmbH 
+    company: <b>Tokyo Tech</b> 
     company_url: 'https://www.titech.ac.jp/english/'
-    company_logo: trace_TokyoTech1
+    company_logo: trace_TiTech1
     location: Tokyo, Japan
-    date_start: '2025-7-01'
+    date_start: '2025-07-01'
     #date_end: '2023-03-31' # just comment "date_end" out for ongoing roles.
     description: |2-
         Research: Large Reasoning Models and Long-Context LLMs for Robot Action-Prediction. 
@@ -38,7 +38,7 @@ experience:
     company_logo: trace_DFKI1
     location: Berlin, Germany
     date_start: '2024-12-01'
-    date_end: '2025-7-01' # just comment "date_end" out for ongoing roles.
+    # date_end: '2025-7-01' # just comment "date_end" out for ongoing roles.
     description: |2-
         Research: Construct language resources for Swahili and North European languages. 
 
