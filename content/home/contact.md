@@ -34,6 +34,8 @@ design:
 ---
 <p>Email(s): atuhurra.jesse.ag2 [at] is.naist.jp OR atuhurrajesse [at] gmail.com</p>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Npfm06MpePZtsjuGlYZjHtgBJI5h6Zrd7me1xfDkvws"></script>
+
 <!-- 
 <p>
     <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ird9uhh872&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> 
