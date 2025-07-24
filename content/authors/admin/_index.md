@@ -161,5 +161,7 @@ src="https://www.statcounter.com/counter/counter.js" async></script>
 href="https://statcounter.com/" target="_blank"><img class="statcounter"
 src="https://c.statcounter.com/13098492/0/65d7ab83/1/" alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Npfm06MpePZtsjuGlYZjHtgBJI5h6Zrd7me1xfDkvws"></script>
 <!-- End of Statcounter Code -->
 
