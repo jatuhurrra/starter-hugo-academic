@@ -34,14 +34,12 @@ design:
 ---
 <p>Email(s): atuhurra.jesse.ag2 [at] is.naist.jp OR atuhurrajesse [at] gmail.com</p>
 
+<!-- "Clustrmaps Globe" Widget below 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Npfm06MpePZtsjuGlYZjHtgBJI5h6Zrd7me1xfDkvws"></script>
+-->
 
+<!-- "Clustrmaps Map" Widget below 
 <a href="https://clustrmaps.com/site/1c7aj"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=Npfm06MpePZtsjuGlYZjHtgBJI5h6Zrd7me1xfDkvws&cl=ffffff" /></a>
-
-<!-- 
-<p>
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ird9uhh872&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> 
-</p>
 -->
 
 <!-- <p>
