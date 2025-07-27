@@ -57,8 +57,8 @@ We introduce RapidNER, a framework for efficiently creating named entity recogni
 
 <div class='project-details'>
 J-ORA is a novel framework and dataset designed to advance research at the intersection of robotics, vision, and language understanding in non-English settings, specifically Japanese. Developed through a collaboration between NAIST and the RIKEN Guardian Robot Project, J-ORA addresses key challenges in robot perception, including ambiguity in object reference, dynamic scene understanding, and multimodal instruction grounding. The framework automates the annotation of a multimodal dataset consisting of 142 real-world image-dialogue pairs, captured from a robot’s egocentric viewpoint. Each instance includes detailed object-attribute annotations, dialogue utterances in Japanese, bounding boxes, and grounded references, enabling evaluation across three core tasks: Object Identification, Reference Resolution, and Next Action Prediction. J-ORA further integrates real-world dynamics such as object occlusions, overlapping visual features, and temporal context to evaluate fine-grained multimodal reasoning. The dataset supports training and evaluation of Vision-Language Models (VLMs) under zero-shot and fine-tuned settings, and includes comparisons across proprietary models (e.g., GPT-4o, Gemini) and open-source Japanese VLMs. By addressing gaps in multilingual and grounded robotics datasets, J-ORA lays the foundation for building more perceptive, culturally adaptive, and interactive domestic service robots.
-[<a href="https://jatuhurrra.github.io/J-ORA/">Code</a>] 
-[<a href="https://huggingface.co/datasets/atamiles/J-ORA/">Data (HF)</a>] [<a href="https://jatuhurrra.github.io/OpenPerception/">Website</a>] 
+[<a href="https://github.com/jatuhurrra/J-ORA/">Code</a>] 
+[<a href="https://huggingface.co/datasets/atamiles/J-ORA/">Data (HF)</a>] [<a href="https://jatuhurrra.github.io/J-ORA/">Website</a>] 
 </div>
 
 <h4 class="project-title">Visual-Language (VLURes) Benchmark</h4>
