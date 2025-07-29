@@ -178,7 +178,7 @@ M.Eng Information Science and Engineering
 <h4 class="section-header">Conferences</h4>
 
 <div class='paper-title'>
-J-ORA: A Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception
+J-ORA: A Framework and Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Koichiro Yoshino<br>
