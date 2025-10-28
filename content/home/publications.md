@@ -178,14 +178,6 @@ M.Eng Information Science and Engineering
 <h4 class="section-header">Conferences</h4>
 
 <div class='paper-title'>
-Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models
-</div>
-<div class='author-list'>
-<u>Jesse Atuhurra</u>, Iqra Ali, Tomoya Iwakura, Hidetaka Kamigaito, Tatsuya Hiraoka<br>
-arXiv:2510.12845
-</div>
-
-<div class='paper-title'>
 J-ORA: A Framework and Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception
 </div>
 <div class='author-list'>
@@ -219,6 +211,14 @@ Assistive Robots @ RSS 2024. Delft, Netherlands. July 15-19, 2024.
 </div>
 
 <h4 class="section-header">Preprints</h4>
+
+<div class='paper-title'>
+VLURes: Benchmarking VLM Visual and Linguistic Understanding in Low-Resource Languages
+</div>
+<div class='author-list'>
+<u>Jesse Atuhurra</u>, Iqra Ali, Tomoya Iwakura, Hidetaka Kamigaito, Tatsuya Hiraoka<br>
+arXiv:2510.12845
+</div>
 
 <div class='paper-title'>
 NERsocial: Efficient Named Entity Recognition Dataset Construction for Human-Robot Interaction Utilizing RapidNER
