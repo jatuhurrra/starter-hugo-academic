@@ -178,11 +178,20 @@ M.Eng Information Science and Engineering
 <h4 class="section-header">Conferences</h4>
 
 <div class='paper-title'>
+Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models
+</div>
+<div class='author-list'>
+<u>Jesse Atuhurra</u>, Iqra Ali, Tomoya Iwakura, Hidetaka Kamigaito, Tatsuya Hiraoka<br>
+arXiv:2510.12845
+</div>
+
+<div class='paper-title'>
 J-ORA: A Framework and Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Hidetaka Kamigaito, Taro Watanabe, Koichiro Yoshino<br>
-IROS 2025. Hangzhou, Zhejiang, China. October 19-25, 2025. (to appear)
+arXiv:2510.21761<br>
+IROS 2025. Hangzhou, Zhejiang, China. October 19-25, 2025.
 </div>
 
 <div class='paper-title'>
