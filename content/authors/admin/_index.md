@@ -31,16 +31,16 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Information Science and Engineering
+  - course: PhD Information Science & Engineering
     institution: Nara Institute of Science and Technology, Japan
     year: 2026
-  - course: MEng Information Science and Engineering
+  - course: MEng Information Science & Engineering
     institution: Nara Institute of Science and Technology, Japan
     year: 2022
   - course: Research Student
     institution: Kyoto University, Japan
     year: 2020
-  - course: BEng in Telecommunications Engineering
+  - course: BEng Telecommunications Engineering
     institution: Kyambogo University, Uganda
     year: Jan 2016
 
