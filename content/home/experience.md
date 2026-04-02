@@ -25,12 +25,12 @@ experience:
   - title: <b>Visiting Researcher</b>
     company: <b>RWTH Aachen Informatik</b> # Deutsches Forschungszentrum für Künstliche Intelligenz GmbH 
     company_url: 'https://www.informatik.rwth-aachen.de/cms/~mxz/informatik/?lidx=1'
-    company_logo: trace_RWTH2
+    company_logo: trace_RWTH3
     location: Aachen, North Rhine-Westphalia, Germany
     date_start: '2026-02-01'
     # date_end: '2026-09-31' # just comment "date_end" out for ongoing roles.
     description: |2-
-        Research: Deep Learning Theory. 
+        Research: Deep Learning Theory for Computational Network Science. 
 
   - title: <b>Research Assistant</b>
     company: <b>Tokyo Tech</b> 
