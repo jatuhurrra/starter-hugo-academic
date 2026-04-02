@@ -82,16 +82,19 @@ email: "atuhurrajesse [at] gmail.com"
 highlight_name: false
 ---
 
-I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. I'm grateful for <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a>, <a href="https://hshindo.com/">Hiroyuki Shindo</a>, and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> guidance too.
+I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Processing Lab</a> of NAIST, working with <a href="https://sites.google.com/site/tarowtnb/">Prof. Taro Watanabe</a>. I'm grateful for <a href="https://sites.google.com/site/hidetakakamigaito">Hidetaka Kamigaito</a> guidance too. <!-- <a href="https://hshindo.com/">Hiroyuki Shindo</a>,   and <a href="https://hiroki13.github.io/">Hiroki Ouchi</a> -->
 
-My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal AI, prompting in Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
+My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal and Embodied AI, Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
+
+I'm a Visiting Researcher at <a href="https://www.rwth-aachen.de">RWTH Aachen University</a> in the <a href="https://www.informatik.rwth-aachen.de/cms/~mxz/informatik/">Faculty of Computer Science</a> working on <i>Deep Learning for Computational Network Science</i>. 
+I work with <a href="https://michaelschaub.github.io/">Prof. Michael T. Schaub</a>, Chair of the <a href="https://www.netsci.rwth-aachen.de/">Computational Network Science</a> Group. 
 
 I'm interning with <a href="https://www.dfki.de/en/web">Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)</a> especially the <a href="https://www.dfki.de/en/web/about-us/locations-contact/berlin">DFKI Lab Berlin</a> to construct <i>language resources for Swahili and North European languages</i>. 
-<!-- I work with <a href="https://dfki-nlp.github.io/authors/leonhard-hennig/">Leonhard Hennig</a>. -->
+I work with <a href="https://dfki-nlp.github.io/authors/leonhard-hennig/">Leonhard Hennig</a>.
 
-I'm a Graduate Research Assistant at <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a> (now the <a href="https://www.isct.ac.jp/en">Institute of Science Tokyo)</a> in the Department of Computer Science at the <a href="https://educ.titech.ac.jp/eng/">School of Computing</a> where I am investigating <i> Large Reasoning Models (LRMs) and Long-context for Action Prediction in Robot Perception</i>. I work with <a href="https://educ.titech.ac.jp/cs/eng/faculty/research_lab/">Koichiro Yoshino's Lab</a>.
+I was a Graduate Research Assistant at <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a> (now the <a href="https://www.isct.ac.jp/en">Institute of Science Tokyo)</a> in the Department of Computer Science at the <a href="https://educ.titech.ac.jp/eng/">School of Computing</a> investigating <i> Large Reasoning Models (LRMs) and Long-context for Action Prediction in Robot Perception</i>. I worked with <a href="https://educ.titech.ac.jp/cs/eng/faculty/research_lab/">Koichiro Yoshino's Lab</a>.
 
-I'm working on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I am specifically contributing to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I work with <a href="https://pomdp.net">Koichiro Yoshino</a>. 
+I worked on social robots under the <a href="https://grp.riken.jp/en/">Guardian Robot Project</a> at <a href="https://www.riken.jp/en/research/labs/r-ih/">RIKEN</a> where I specifically contributed to <i>First-person Multimodal Perception</i> through <i>Attribute collection</i> and <i>Vision Language Models (VLMs)</i>. I worked with <a href="https://pomdp.net">Koichiro Yoshino</a>. 
 <!-- RIKEN R-IH is different from RIKEN AIP -->
 
 I undertook a research internship at <a href="https://www.fujitsu.com/global/about/research/">Fujitsu AI Lab</a> where I worked on <i>Multimodal Information Extraction</i>. I worked with <b>Prof. Tomoya Iwakura</b> and <a href="https://tathi.github.io/">Tatsuya Hiraoka</a>.
@@ -106,6 +109,7 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 
 <h6><b>Activities/News:</b></h6>
 <ul>
+  <li><b>[Feb. 2026]</b> Commenced a Visiting Researcher role at RWTH Aachen &#x1f1e9;&#x1f1ea;.</li>
   <li><b>[October 2025]</b> Visited Alibaba Global HQ at Xixi Park, DeepRobotics & Zhejiang University's Zijingang Campus in Hangzhou &#x1F1E8;&#x1F1F3;. </li>
   <li><b>[July 2025]</b> Started R.A position at Tokyo Tech (Sch. of Computing) &#x1F1EF;&#x1F1F5;. </li>
   <li><b>[June 2025]</b> One paper accepted to IROS 2025 &#x1F1E8;&#x1F1F3;. </li>
