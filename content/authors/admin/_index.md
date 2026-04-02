@@ -111,9 +111,9 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 <h6><b>Activities/News:</b></h6>
 <ul>
   <li><b>[Feb. 2026]</b> Commenced a Visiting Researcher role at RWTH Aachen &#x1f1e9;&#x1f1ea;.</li>
-  <li><b>[October 2025]</b> Visited Alibaba Global HQ at Xixi Park, DeepRobotics & Zhejiang University's Zijingang Campus in Hangzhou &#x1F1E8;&#x1F1F3;. </li>
-  <li><b>[July 2025]</b> Started R.A position at Tokyo Tech (Sch. of Computing) &#x1F1EF;&#x1F1F5;. </li>
-  <li><b>[June 2025]</b> One paper accepted to IROS 2025 &#x1F1E8;&#x1F1F3;. </li>
+  <li><b>[Oct. 2025]</b> Visited Alibaba Global HQ at Xixi Park, DeepRobotics & Zhejiang University's Zijingang Campus in Hangzhou &#x1F1E8;&#x1F1F3;. </li>
+  <li><b>[Jul. 2025]</b> Started R.A position at Tokyo Tech (Sch. of Computing) &#x1F1EF;&#x1F1F5;. </li>
+  <li><b>[Jun. 2025]</b> One paper accepted to IROS 2025 &#x1F1E8;&#x1F1F3;. </li>
   <li><b>[Apr. 2025]</b> Built Japanese Medical-insurance Knowledge Graph at InfoDeliver &#x1F1EF;&#x1F1F5;.</li>  
   <li><b>[Dec. 2024]</b> Commenced research internship at DFKI Berlin &#x1f1e9;&#x1f1ea;.</li>
   <li><b>[Jan. 2024]</b> Commenced work on multimodal perception for Robots, at RIKEN &#x1F1EF;&#x1F1F5;.</li>
