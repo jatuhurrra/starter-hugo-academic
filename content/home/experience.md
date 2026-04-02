@@ -28,9 +28,9 @@ experience:
     company_logo: trace_RWTH1
     location: Aachen, North Rhine-Westphalia, Germany
     date_start: '2026-02-01'
-    # date_end: '2025-7-01' # just comment "date_end" out for ongoing roles.
+    # date_end: '2026-09-31' # just comment "date_end" out for ongoing roles.
     description: |2-
-        Research: Construct language resources for Swahili and North European languages. 
+        Research: Deep Learning Theory. 
 
   - title: <b>Research Assistant</b>
     company: <b>Tokyo Tech</b> 
