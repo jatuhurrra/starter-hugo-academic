@@ -178,6 +178,14 @@ M.Eng Information Science and Engineering
 <h4 class="section-header">Conferences</h4>
 
 <div class='paper-title'>
+VLURes: Benchmarking Long-Text Grounding and Cross-Lingual Robustness in Vision Language Models
+</div>
+<div class='author-list'>
+<u>Jesse Atuhurra</u>, Iqra Ali, Tomoya Iwakura, Hidetaka Kamigaito, Tatsuya Hiraoka<br>
+ACL 2026. San Diego, CA, USA. July 2–7, 2026.
+</div>
+
+<div class='paper-title'>
 J-ORA: A Framework and Multimodal Dataset for Japanese Object Identification, Reference, Action Prediction in Robot Perception
 </div>
 <div class='author-list'>
