@@ -87,7 +87,7 @@ I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal and Embodied AI, Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I'm a Visiting Researcher at <a href="https://www.rwth-aachen.de">RWTH Aachen University</a> in the <a href="https://www.informatik.rwth-aachen.de/cms/~mxz/informatik/">Faculty of Computer Science</a> working on <i>Deep Learning for Computational Network Science</i>. 
+I'm a Visiting PhD Researcher at <a href="https://www.rwth-aachen.de">RWTH Aachen University</a> in the <a href="https://www.informatik.rwth-aachen.de/cms/~mxz/informatik/">Faculty of Computer Science</a> working on <i>Deep Learning for Computational Network Science</i>. 
 I work with <a href="https://michaelschaub.github.io/">Prof. Michael T. Schaub</a>, Chair of the <a href="https://www.netsci.rwth-aachen.de/">Computational Network Science</a> Group. 
 
 I'm interning with <a href="https://www.dfki.de/en/web">Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)</a> especially the <a href="https://www.dfki.de/en/web/about-us/locations-contact/berlin">DFKI Lab Berlin</a> to construct <i>language resources for Swahili and North European languages</i>. 
@@ -110,6 +110,7 @@ My graduate studies are fully funded by the Japanese government's <a href="https
 
 <h6><b>Activities/News:</b></h6>
 <ul>
+  <li><b>[Jun. 2026]</b> Gave an Invited Colloquium Talk at DFKI @ Berlin &#x1f1e9;&#x1f1ea;.</li>  
   <li><b>[Apr. 2026]</b> One paper accepted to ACL 2026 &#127482;&#127480;. </li>
   <li><b>[Feb. 2026]</b> Commenced a Visiting Researcher role at RWTH Aachen &#x1f1e9;&#x1f1ea;.</li>
   <li><b>[Oct. 2025]</b> Visited Alibaba Global HQ at Xixi Park, DeepRobotics & Zhejiang University's Zijingang Campus in Hangzhou &#x1F1E8;&#x1F1F3;. </li>
