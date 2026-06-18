@@ -182,7 +182,7 @@ VLURes: Benchmarking Long-Text Grounding and Cross-Lingual Robustness in Vision 
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u>, Iqra Ali, Tomoya Iwakura, Hidetaka Kamigaito, Tatsuya Hiraoka<br>
-ACL 2026. San Diego, CA, USA. July 2–7, 2026.
+ACL 2026 (Findings). San Diego, CA, USA. July 2–7, 2026.
 </div>
 
 <div class='paper-title'>
