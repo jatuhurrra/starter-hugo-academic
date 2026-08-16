@@ -106,7 +106,7 @@ Previously, I worked on <i>Intrusion Detection</i> in IoT networks in the <a hre
 
 I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <b>Yoshikawa Lab</b> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://scholar.google.co.jp/citations?hl=ja&user=yMFHG7wAAAAJ&view_op=list_works&sortby=pubdate"> Prof. Masatoshi Yoshikawa </a> on several methods mainly related to Information Retrieval, Databases, Human-Computer Interface design and Artificial Intelligence.
 
-My graduate studies are fully funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
+My graduate studies have been largely funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
 
 <h6><b>Activities/News:</b></h6>
 <ul>
