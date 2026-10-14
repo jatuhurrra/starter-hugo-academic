@@ -91,7 +91,7 @@ I'm a Visiting PhD Researcher at <a href="https://www.rwth-aachen.de">RWTH Aache
 I work with <a href="https://michaelschaub.github.io/">Prof. Michael T. Schaub</a>, Chair of the <a href="https://www.netsci.rwth-aachen.de/">Computational Network Science</a> Group. 
 
 I'm interning with <a href="https://www.dfki.de/en/web">Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)</a> especially the <a href="https://www.dfki.de/en/web/about-us/locations-contact/berlin">DFKI Lab Berlin</a> to construct <i>language resources for Swahili and North European languages</i>. 
-I work with <a href="https://dfki-nlp.github.io/authors/leonhard-hennig/">Leonhard Hennig</a>.
+I work with <b>Leonhard Hennig</b>.
 
 I was a Graduate Research Assistant at <a href="https://www.titech.ac.jp/english">Tokyo Institute of Technology</a> (now the <a href="https://www.isct.ac.jp/en">Institute of Science Tokyo)</a> in the Department of Computer Science at the <a href="https://educ.titech.ac.jp/eng/">School of Computing</a> investigating <i> Large Reasoning Models (LRMs) and Long-context for Action Prediction in Robot Perception</i>. I worked with <a href="https://educ.titech.ac.jp/cs/eng/faculty/research_lab/">Koichiro Yoshino's Lab</a>.
 
@@ -104,7 +104,7 @@ I was affiliated with <a href="http://www.jp.honda-ri.com/en/">HONDA Research In
 
 Previously, I worked on <i>Intrusion Detection</i> in IoT networks in the <a href="http://www-lsm.naist.jp/en/">Large-scale Systems Management Lab</a> of <a href="http://www.naist.jp/en/">NAIST</a> during my master's degree where <a href="http://www-lsm.naist.jp/~kasahara/index-e.html"> Prof. Shoji Kasahara</a> advised me.
 
-I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <b>Yoshikawa Lab</b> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://scholar.google.co.jp/citations?hl=ja&user=yMFHG7wAAAAJ&view_op=list_works&sortby=pubdate"> Prof. Masatoshi Yoshikawa </a> on several methods mainly related to Information Retrieval, Databases, Human-Computer Interface design and Artificial Intelligence.
+I spent time as a Research Student at <a href="https://www.kyoto-u.ac.jp/en"> Kyoto University</a>, in <b>Yoshikawa Lab</b> in the <a href="https://www.i.kyoto-u.ac.jp/en/"> Graduate School of Informatics </a>. While there, I was supervised and mentored by <a href="https://yoshikawa-mas.github.io/"> Prof. Masatoshi Yoshikawa </a> on several methods mainly related to Information Retrieval, Databases, Human-Computer Interface design and Artificial Intelligence.
 
 My graduate studies have been largely funded by the Japanese government's <a href="https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm">MEXT</a> scholarship for which I am incredibly grateful.
 
