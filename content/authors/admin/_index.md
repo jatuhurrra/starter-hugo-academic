@@ -87,7 +87,7 @@ I am a PhD student at the <a href="https://nlp.naist.jp/en/">Natural Language Pr
 
 My NLP research interests lie in Information Extraction (named entity recogntion, entity linking), Knowledge Graphs, Multimodal and Embodied AI, Large Language Models (LLMs) and Low-resource NLP. Broadly speaking, I am passionate about applying deep learning approaches to enable machines to understand human language, and facilitate communication between humans and social robots.
 
-I'm a Visiting PhD Researcher at <a href="https://www.rwth-aachen.de">RWTH Aachen University</a> in the <a href="https://www.informatik.rwth-aachen.de/cms/~mxz/informatik/">Faculty of Computer Science</a> working on <i>Deep Learning for Computational Network Science</i>. 
+I'm a Visiting PhD Researcher at <a href="https://www.rwth-aachen.de">RWTH Aachen University</a> in the <a href="https://www.informatik.rwth-aachen.de/cms/~mxz/informatik/">Faculty of Computer Science</a> working on <i>Graph Theory</i>. 
 I work with <a href="https://michaelschaub.github.io/">Prof. Michael T. Schaub</a>, Chair of the <a href="https://www.netsci.rwth-aachen.de/">Computational Network Science</a> Group. 
 
 I'm interning with <a href="https://www.dfki.de/en/web">Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)</a> especially the <a href="https://www.dfki.de/en/web/about-us/locations-contact/berlin">DFKI Lab Berlin</a> to construct <i>language resources for Swahili and North European languages</i>. 

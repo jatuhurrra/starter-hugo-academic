@@ -253,14 +253,6 @@ arXiv:2404.08666
 </div>
 
 <div class='paper-title'>
-Constructing Multilingual Visual-Text Datasets Revealing Visual Multilingual Ability of Vision Language Models
-</div>
-<div class='author-list'>
-<u>Jesse Atuhurra</u>, Iqra Ali, Tatsuya Hiraoka, Hidetaka Kamigaito, Tomoya Iwakura, Taro Watanabe<br>
-arXiv:2406.15359
-</div>
-
-<div class='paper-title'>
 Introducing Syllable Tokenization for Low-resource Languages: A Case Study with Swahili
 </div>
 <div class='author-list'>

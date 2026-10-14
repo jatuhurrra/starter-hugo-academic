@@ -30,7 +30,7 @@ experience:
     date_start: '2026-02-01'
     # date_end: '2026-09-31' # just comment "date_end" out for ongoing roles.
     description: |2-
-        Research: Deep Learning Theory and Computational Network Science. 
+        Research: Graph Theory and Computational Network Science. 
 
   - title: <b>Research Assistant</b>
     company: <b>Tokyo Tech</b> 
