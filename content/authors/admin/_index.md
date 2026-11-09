@@ -34,7 +34,7 @@ education:
   courses:
   - course: PhD Information Science & Engineering
     institution: Nara Institute of Science and Technology, Japan
-    year: 2026
+    # year: 2026
   - course: MEng Information Science & Engineering
     institution: Nara Institute of Science and Technology, Japan
     year: 2022
