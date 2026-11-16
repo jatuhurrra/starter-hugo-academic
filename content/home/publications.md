@@ -215,7 +215,7 @@ Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Languag
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
-IEEE MIPR 2024. San Jose, CA, USA. August 7-9, 2024. <i>(not included in proceedings)</i>
+IEEE MIPR 2024. San Jose, CA, USA. August 7-9, 2024. <i>(not included in proceedings)</i> DOI: 10.1109/MIPR62202.2024.00063
 </div>
 
 <div class='paper-title'>
