@@ -165,7 +165,15 @@ Please find all my publications on <a href="https://scholar.google.com/citations
 }
 </style>
 
-<h4 class="section-header">Thesis</h4>
+<h4 class="section-header">Theses</h4>
+
+<div class='paper-title'>
+Grounded Robot Perception and Auditability in Multimodal Foundation Models <i>(submitted)</i>
+</div>
+<div class='author-list'>
+<u>Jesse Atuhurra</u><br>
+Ph.D. Information Science and Engineering
+</div>
 
 <div class='paper-title'>
 Dealing with Imbalanced Classes in Bot-IoT Dataset
@@ -207,7 +215,7 @@ Zero-shot Retrieval of User Intent in Human-Robot Interaction with Large Languag
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
-IEEE MIPR 2024. San Jose, CA, USA. August 7-9, 2024.
+IEEE MIPR 2024. San Jose, CA, USA. August 7-9, 2024. <i>(not included in proceedings)</i>
 </div>
 
 <div class='paper-title'>
@@ -215,7 +223,7 @@ The Impact of Large Language Models on Social Robots: Potential Benefits and Cha
 </div>
 <div class='author-list'>
 <u>Jesse Atuhurra</u><br>
-Assistive Robots @ RSS 2024. Delft, Netherlands. July 15-19, 2024.
+Assistive Robots @ RSS 2024. Delft, Netherlands. July 15-19, 2024. <i>(a Blue Sky paper)</i>
 </div>
 
 <h4 class="section-header">Preprints</h4>
