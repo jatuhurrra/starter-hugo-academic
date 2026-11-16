@@ -32,6 +32,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Visiting PhD Student
+    institution: RWTH Aachen University, Germany
+    year: 2026
   - course: PhD Information Science & Engineering
     institution: Nara Institute of Science and Technology, Japan
     # year: 2026

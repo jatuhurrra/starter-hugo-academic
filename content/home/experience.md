@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: <b>Visiting Researcher</b>
+  - title: <b>Visiting PhD Researcher</b>
     company: <b>RWTH Aachen</b> # Deutsches Forschungszentrum für Künstliche Intelligenz GmbH 
     company_url: 'https://www.informatik.rwth-aachen.de/cms/~mxz/informatik/?lidx=1'
     company_logo: trace_RWTH3
